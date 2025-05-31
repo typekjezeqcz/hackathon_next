@@ -1,12 +1,10 @@
 // utils/evRouting.ts
 // -----------------------------------------------------------------------------
-// Shared utilities for EV-routing logic: distance calculation, branch proximity,
-// and best-branch selection.  Designed for **TypeScript** in a Next.js
-// project.
+// Shared utilities for EV‐routing logic: distance calculation, branch proximity,
+// and best-branch selection.  Designed for **TypeScript** in a Next.js project.
 // -----------------------------------------------------------------------------
 
-import { createReadStream } from "fs";
-import path from "path";
+import { Readable } from "stream";
 import csvParser from "csv-parser";
 import polyline from "@mapbox/polyline";
 
@@ -35,16 +33,34 @@ function toLocalDate(date: string | Date): string {
   )}-${String(d.getDate()).padStart(2, "0")}`;
 }
 
-/** Read a CSV file into an array of typed rows. */
-function readCsv<T>(filePath: string): Promise<T[]> {
-  return new Promise((resolve, reject) => {
-    const rows: T[] = [];
-    createReadStream(filePath)
+/** Read a CSV (accessible via URL) into an array of typed rows. */
+async function readCsv<T>(url: string): Promise<T[]> {
+  // 1) Fetch CSV text from the public/data folder
+  const res = await fetch(url);
+  if (!res.ok) {
+    throw new Error(`Failed to fetch ${url}: ${res.status} ${res.statusText}`);
+  }
+  const text = await res.text();
+
+  // 2) Convert text into a Readable stream, then pipe into csv-parser
+  const rows: T[] = [];
+  const textStream = Readable.from([text]);
+
+  await new Promise<void>((resolve, reject) => {
+    textStream
       .pipe(csvParser())
-      .on("data", (row) => rows.push(row as T))
-      .on("end", () => resolve(rows))
-      .on("error", reject);
+      .on("data", (row) => {
+        rows.push(row as T);
+      })
+      .on("end", () => {
+        resolve();
+      })
+      .on("error", (err) => {
+        reject(err);
+      });
   });
+
+  return rows;
 }
 
 /* -------------------------------------------------------------------------- */
@@ -88,23 +104,20 @@ export interface NearbyBranchResult {
  * Get all branches whose lateral distance to the encoded route does not exceed
  * `DISTANCE_THRESHOLD` (metres), and whose along‐route distance from the
  * starting point is at most the total route length (start→end).
+ *
+ * NOTE: `branches` must already be loaded (via readCsv) before calling this.
  */
 export async function findNearbyBranchesFromPolyline(
   DISTANCE_THRESHOLD: number,
-  encoded: string
+  encoded: string,
+  branches: BranchRow[]
 ): Promise<NearbyBranchResult[]> {
-  const baseDir = path.resolve(process.cwd(), "data");
-  const branchesCsv = path.join(
-    "my-app/data/branch_vehicle_allocation_with_cars.csv"
-  ); // adjust to your CSV path
-
   // 1. Decode polyline → array of points
   const decoded: Point[] = polyline
     .decode(encoded)
     .map(([lat, lng]) => ({ lat, lng }));
 
   if (decoded.length < 2) {
-    // If there’s no “route” or only one point, we can’t meaningfully compare along-route distances
     return [];
   }
 
@@ -113,10 +126,7 @@ export async function findNearbyBranchesFromPolyline(
   const endPoint: Point = decoded[decoded.length - 1];
   const distStartToEnd: number = getDistance(startPoint, endPoint);
 
-  // 3. Load all branches
-  const branches = await readCsv<BranchRow>(branchesCsv);
-
-  // 4. Evaluate each branch
+  // 3. Evaluate each branch
   return branches
     .map((branch) => {
       const coords: Point = {
@@ -127,26 +137,25 @@ export async function findNearbyBranchesFromPolyline(
         return null;
       }
 
-      // 4a. Compute along-route distance: start → branch
+      // 3a. Compute along-route distance (start → branch)
       const distStartToBranch = getDistance(startPoint, coords);
-
-      // If branch is “beyond” the end-point (i.e. further than the route’s total length), skip it
+      // If “beyond” the end of route, skip
       if (distStartToBranch > distStartToEnd * 0.6) {
         return null;
       }
 
-      // 4b. Compute lateral (minimum) distance from the route
+      // 3b. Compute lateral (minimum) distance from the route
       let minDist = Infinity;
       let minLoc: Point | null = null;
-      decoded.forEach((pt) => {
+      for (const pt of decoded) {
         const d = getDistance(pt, coords);
         if (d < minDist) {
           minDist = d;
           minLoc = pt;
         }
-      });
+      }
 
-      // 4c. If lateral distance exceeds threshold, skip
+      // 3c. If lateral distance exceeds threshold, skip
       if (minDist > DISTANCE_THRESHOLD) {
         return null;
       }
@@ -199,33 +208,34 @@ export async function getBestBranchWithAvailableEV(
   /* ------------------------------------------------------------------------ */
   /*  1. Load CSVs in parallel                                                */
   /* ------------------------------------------------------------------------ */
-
-  const baseDir = path.resolve(process.cwd(), "data");
+  const baseURL =
+    process.env.NEXT_PUBLIC_SITE_URL ||
+    "https://hackathon-next-rosy.vercel.app";
 
   const [branches, cars, trips] = await Promise.all([
     readCsv<BranchRow>(
-      path.join("my-app/data/branch_vehicle_allocation_with_cars.csv")
+      `${baseURL}/data/branch_vehicle_allocation_with_cars.csv`
     ),
-    readCsv<CarRow>(path.join("my-app/data/cars.csv")),
-    readCsv<TripRow>(path.join("my-app/data/trips.csv")),
+    readCsv<CarRow>(`${baseURL}/data/cars.csv`),
+    readCsv<TripRow>(`${baseURL}/data/trips.csv`),
   ]);
 
   /* ------------------------------------------------------------------------ */
-  /*  2. Nearby branches w/ distance metrics (now using the updated function) */
+  /*  2. Nearby branches w/ distance metrics (using updated findNearby...)   */
   /* ------------------------------------------------------------------------ */
-
-  const nearby = await findNearbyBranchesFromPolyline(
+  const nearbyBranches = await findNearbyBranchesFromPolyline(
     DISTANCE_THRESHOLD,
-    encoded
+    encoded,
+    branches
   );
-  const nearbyMap = new Map(nearby.map((b) => [b.Name, b]));
+  const nearbyMap = new Map(nearbyBranches.map((b) => [b.Name, b]));
 
   /* ------------------------------------------------------------------------ */
   /*  3. Filter branches that have EVs                                        */
   /* ------------------------------------------------------------------------ */
-
   const branchesWithEVs = branches
     .filter((branch) => {
+      // parseStringArray returns an array of car IDs like ["E123", "G456", ...]
       const carIds = parseStringArray(branch.cars);
       const hasEv = carIds.some((id) => id.trim().startsWith("E"));
       return nearbyMap.has(branch.Name) && hasEv;
@@ -247,7 +257,6 @@ export async function getBestBranchWithAvailableEV(
   /* ------------------------------------------------------------------------ */
   /*  4. Index EVs that meet range requirement                                */
   /* ------------------------------------------------------------------------ */
-
   const highRangeEvMap = new Map<string, CarRow & { trips: string[] }>();
   cars.forEach((car) => {
     if (car.type === "electric" && parseFloat(car.range_km) > RANGE_THRESHOLD) {
@@ -261,7 +270,6 @@ export async function getBestBranchWithAvailableEV(
   /* ------------------------------------------------------------------------ */
   /*  5. Build candidate list (branch × EV)                                   */
   /* ------------------------------------------------------------------------ */
-
   const candidates: {
     branch: string;
     lat: number;
@@ -292,7 +300,6 @@ export async function getBestBranchWithAvailableEV(
   /* ------------------------------------------------------------------------ */
   /*  6. Remove candidates booked on the specified date                       */
   /* ------------------------------------------------------------------------ */
-
   const bookedMap = new Map<string, string[]>();
   trips.forEach((trip) => {
     const id = trip.car_id?.trim();
@@ -304,16 +311,15 @@ export async function getBestBranchWithAvailableEV(
   });
 
   const desiredDate = toLocalDate(TIME);
-  const free = candidates.filter(
+  const freeCandidates = candidates.filter(
     (c) => !(bookedMap.get(c.ev_id) || []).includes(desiredDate)
   );
-  if (free.length === 0) return null;
+  if (freeCandidates.length === 0) return null;
 
   /* ------------------------------------------------------------------------ */
   /*  7. Score and pick the best                                              */
   /* ------------------------------------------------------------------------ */
-
-  const scored = free.map((c) => {
+  const scored = freeCandidates.map((c) => {
     const distToMin = getDistance(
       { lat: c.lat, lng: c.lng },
       c.minDistanceLocation
@@ -322,7 +328,7 @@ export async function getBestBranchWithAvailableEV(
       ...c,
       distanceToMinLocation_meters: distToMin,
       distanceRatio: c.distanceToRoute_meters / distToMin,
-    } as any;
+    } as unknown as BestBranchResult;
   });
 
   return scored.reduce((best, cur) =>
