@@ -165,7 +165,7 @@ export async function POST(req: NextRequest) {
     const mergedEncoded = mergeEncodedPolylines(encToBranch, encToDest);
 
     /* optional: dump for debug */
-    const dir = path.join(process.cwd(), "data");
+    // const dir = path.join(process.cwd(), "data");
     // await fs.mkdir(dir, { recursive: true });
     // await fs.writeFile(
     //   path.join(dir, "merged_trip.json"),
