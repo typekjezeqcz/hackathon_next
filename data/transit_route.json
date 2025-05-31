@@ -1,0 +1,5212 @@
+{
+  "routes": [
+    {
+      "legs": [
+        {
+          "distanceMeters": 94709,
+          "duration": "6659s",
+          "staticDuration": "6659s",
+          "polyline": {
+            "encodedPolyline": "ckspHg{bwALQJsFT?A|FM~BYdC]dB{@fCaAnB_@j@eBjBgAr@aDjBgB|AmA`BoIpM{@zB}@~CeAnEs@|Bi@nAkC~DkCxDAAIhDBCqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGITuACc@C?kb_C_t|AEAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 50.075538099999996,
+              "longitude": 14.437800500000002
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 50.766278799999995,
+              "longitude": 15.0543409
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 9,
+              "staticDuration": "8s",
+              "polyline": {
+                "encodedPolyline": "ckspHg{bwALQ"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075538099999996,
+                  "longitude": 14.437800500000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "9 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "20s",
+              "polyline": {
+                "encodedPolyline": "ujspHy{bwA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Take entrance E1"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "ujspHy{bwA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 87,
+              "staticDuration": "149s",
+              "polyline": {
+                "encodedPolyline": "ujspHy{bwAJsF"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.075409,
+                  "longitude": 14.439110000000001
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "87 m"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 1463,
+              "staticDuration": "170s",
+              "polyline": {
+                "encodedPolyline": "ijspHmccwAT?A|FM~BYdC]dB{@fCaAnB_@j@eBjBgAr@aDjBgB|AmA`BoIpM{@zB}@~CeAnEs@|Bi@nAkC~DkCxDAA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075409,
+                  "longitude": 14.439110000000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Subway towards Nemocnice Motol"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.5 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Můstek",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.083558,
+                        "longitude": 14.424559900000002
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:25:40Z",
+                  "departureStop": {
+                    "name": "Náměstí Míru",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.075409,
+                        "longitude": 14.439110000000001
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:22:50Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:25 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:22 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Nemocnice Motol",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Nemocnice Motol - Petřiny - Skalka - Depo Hostivař",
+                  "uri": "https://pid.cz/linka/A",
+                  "color": "#00a54f",
+                  "nameShort": "A",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": {
+                      "text": "Subway"
+                    },
+                    "type": "SUBWAY",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png"
+                  }
+                },
+                "stopCount": 3
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "g}tpHoh`wA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "20s",
+              "polyline": {
+                "encodedPolyline": "g}tpHoh`wA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "88s",
+              "polyline": {
+                "encodedPolyline": "g}tpHoh`wA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 61,
+              "staticDuration": "36s",
+              "polyline": {
+                "encodedPolyline": "g}tpHoh`wAIhD"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0836098,
+                  "longitude": 14.4237069
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "61 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 12150,
+              "staticDuration": "1145s",
+              "polyline": {
+                "encodedPolyline": "q}tpHec`wABCqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGI"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0836098,
+                  "longitude": 14.4237069
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.108967,
+                  "longitude": 14.576832999999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Subway towards Černý Most"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "12.2 km"
+                },
+                "staticDuration": {
+                  "text": "19 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.108967,
+                        "longitude": 14.576832999999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:53:55Z",
+                  "departureStop": {
+                    "name": "Můstek",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.0836098,
+                        "longitude": 14.4237069
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:34:50Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:53 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:34 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Černý Most",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Zličín - Černý Most",
+                  "uri": "https://pid.cz/linka/B",
+                  "color": "#f2c10a",
+                  "nameShort": "B",
+                  "vehicle": {
+                    "name": {
+                      "text": "Subway"
+                    },
+                    "type": "SUBWAY",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png"
+                  }
+                },
+                "stopCount": 11
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 32,
+              "staticDuration": "41s",
+              "polyline": {
+                "encodedPolyline": "a|ypHe`~wATuA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.108967,
+                  "longitude": 14.576832999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.10886,
+                  "longitude": 14.577259999999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Take exit E1"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "32 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 13,
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "k{ypH{b~wACc@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.10886,
+                  "longitude": 14.577259999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.1088812,
+                  "longitude": 14.577440999999999
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "13 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 80451,
+              "staticDuration": "3900s",
+              "polyline": {
+                "encodedPolyline": "s{ypH_d~wAkb_C_t|A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.1088982,
+                  "longitude": 14.5774355
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7647972,
+                  "longitude": 15.056961099999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards Liberec, AN"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "80.5 km"
+                },
+                "staticDuration": {
+                  "text": "1 hour 5 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Liberec, Fügnerova-Blažkova",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.7647972,
+                        "longitude": 15.056961099999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T10:05:00Z",
+                  "departureStop": {
+                    "name": "Praha, Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.1088982,
+                        "longitude": 14.5774355
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T09:00:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "12:05 PM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "11:00 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Liberec, AN",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "RegioJet a.s.",
+                      "uri": "http://www.regiojet.cz/"
+                    }
+                  ],
+                  "name": "Praha - Liberec",
+                  "color": "#f2f200",
+                  "nameShort": "RegioJet",
+                  "textColor": "#000000",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 2
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 34,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "e_ztHay{zAOhAEL"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.764829299999995,
+                  "longitude": 15.0569735
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head west on Blažkova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 104,
+              "staticDuration": "80s",
+              "polyline": {
+                "encodedPolyline": "{_ztHiv{zA]m@MDOKuAqB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right toward Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 236,
+              "staticDuration": "176s",
+              "polyline": {
+                "encodedPolyline": "mdztHo{{zAoB`FOZcAdAe@lAG^Bz@HP"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 69,
+              "staticDuration": "55s",
+              "polyline": {
+                "encodedPolyline": "qkztHok{zATTd@NPLZf@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766278799999995,
+                  "longitude": 15.0543409
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_LEFT",
+                "instructions": "Slight left onto Jánská"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "69 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "94.7 km"
+            },
+            "duration": {
+              "text": "1 hour 51 mins"
+            },
+            "staticDuration": {
+              "text": "1 hour 51 mins"
+            }
+          },
+          "stepsOverview": {
+            "multiModalSegments": [
+              {
+                "stepStartIndex": 0,
+                "stepEndIndex": 3,
+                "navigationInstruction": {
+                  "instructions": "Walk to Náměstí Míru"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 4,
+                "stepEndIndex": 4,
+                "navigationInstruction": {
+                  "instructions": "Subway towards Nemocnice Motol"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 5,
+                "stepEndIndex": 8,
+                "navigationInstruction": {
+                  "instructions": "Walk to Můstek"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 9,
+                "stepEndIndex": 9,
+                "navigationInstruction": {
+                  "instructions": "Subway towards Černý Most"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 10,
+                "stepEndIndex": 11,
+                "navigationInstruction": {
+                  "instructions": "Walk to Praha, Černý Most"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 12,
+                "stepEndIndex": 12,
+                "navigationInstruction": {
+                  "instructions": "Bus towards Liberec, AN"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 13,
+                "stepEndIndex": 16,
+                "travelMode": "WALK"
+              }
+            ]
+          }
+        }
+      ],
+      "distanceMeters": 94709,
+      "duration": "6659s",
+      "staticDuration": "6659s",
+      "polyline": {
+        "encodedPolyline": "ckspHg{bwALQJsFT?A|FM~BYdC]dB{@fCaAnB_@j@eBjBgAr@aDjBgB|AmA`BoIpM{@zB}@~CeAnEs@|Bi@nAkC~DkCxDAAIhDBCqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGITuACc@C?kb_C_t|AEAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+      },
+      "viewport": {
+        "low": {
+          "latitude": 50.0753,
+          "longitude": 14.4237069
+        },
+        "high": {
+          "latitude": 50.766882300000006,
+          "longitude": 15.0573608
+        }
+      },
+      "travelAdvisory": {
+        "transitFare": {}
+      },
+      "localizedValues": {
+        "distance": {
+          "text": "94.7 km"
+        },
+        "duration": {
+          "text": "1 hour 51 mins"
+        },
+        "staticDuration": {
+          "text": "1 hour 51 mins"
+        },
+        "transitFare": {}
+      },
+      "routeLabels": [
+        "DEFAULT_ROUTE"
+      ]
+    },
+    {
+      "legs": [
+        {
+          "distanceMeters": 111711,
+          "duration": "6659s",
+          "staticDuration": "6659s",
+          "polyline": {
+            "encodedPolyline": "ckspHg{bwALQJsFT?A|FM~BYdC]dB{@fCaAnB_@j@eBjBgAr@aDjBgB|AmA`BoIpM{@zB}@~CeAnEs@|Bi@nAkC~DkCxDAAIhDBCqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGITuACc@C?NC^~FJ`@V\\HrACl@GTXXt@tA@`@Nn@Ah@On@i@r@YJSCOOMW[uBMyAg@kEEg@MSkD}h@BcCHiAR}@`@u@n@a@HWDOGc@MgC?[@aAFu@b@mAj@{@p@g@j@WvD}@`Dm@tHgBlGuBHIh@Kb@FJTRHLGTd@n@|BZjALj@tBfIP^JDP?XOfBaBdAcAj@y@^{@ZkAtAkMlB}Pf@oF`@{A`@e@ZM^?\\PXb@Nn@Fj@Ct@Sp@a@p@e@h@sInDgMvFyJ`E}G~BgEhAuE~@sI~@kERuF@sBCiCQoFa@]OiEo@_Be@qAi@yAw@wAaAmBcB{@}@qBiCgAcBoAcCgAiCkAgDi@kBe@qBo@sDmDiU{BwQKMaF}`@qEg[iCkPmAeHeBkJ_DmO{CkMeCwJ}C_LwDuLwBuGsB_HkCsHyBsFaBuDcDwGmC{EwEeJkE_IiFuIqFmI_F_HqD{EcGkHcHyH}GaHyHgH_LkJaMuJoUwPa[yTqKgIeJuHsG_GkGgGiFyF{F_HcFcHqEcHwEeI}BkEiF}Kw@kBeDqHuIySeJwTeCkFcDuFgEcG_DoDgCcCgCoBsBoAyDiB}Bw@qDy@cDa@cDMuDDaDX_C^yCz@yChAuCxAaCxAaChB{FvEuCtBqCxA{Bz@}Cv@uBVwBNkCAaCMaC]}Bk@aC{@kDiBwBwAmFcEoJsIgFwEcJyH}EaFiCiC}BkCuCcEsUe_@{p@afA}h@a{@_r@_hAq\\ah@uN_UsA}BiHiNyEkKuDeJ_CqGmB{FyAuEeGmTgFeRoDaLmBiFsB_FaCwEqDaGiCcEkCsEiAyByAkDoAqD_AsDi@kC_@}Bg@aEc@wFg@kKm@wL]kEo@kF{@sFoAiGcAaEuBeHeBaFqDgJkCeGeIaRgDuIsAmD{EmNeBsFcFiQyDsOsBkJmG{YkCkLwC}KyAgFoBqGaC}G_DmIyDaJoDqH{A}CyGuLuBkDwFeImEwFeIoIeFgFoJwIkHwGwEuE{DcEcCqC_FiG_J{LcGoHkCuC_BcBsBoBiCuBoF{DmDsBuE{BmFyBeG}BoNcFiJyDmDgB_GiDiGsEyEaEaG}FuFuGuBmCaPgTcE}EkCwCaDyCmCwB}DiCeEuBuCkAkCq@eDq@uDe@kDQwBAoDHeCJmBPmBXyDr@kL|CyMvDiM`D}N|CkIhAmMfAeBJ{DFmFA_CE}EUgDWeH{@wFcA{D}@uIeC_HeCqD_BuE{B_JeF_HoEyH}FsJeIkQaPqUcTqHoGgMkKgEiEkDcEaCiD_DeF}C_GgBaEeCkGkCgHmC_G}C_G_CqDeCgDq@y@mD{DiEuDoHiF_GwEeC}BwE_FsDkE{ByCuCeEgDoFsBuDmByDkD{HgCoG{CgJyBsHaCkJiBmIeAkE_AkDkA}DkCaIiCyGmByDkDiGeDoFwEkGsFcGoDeDkEkDwFgDmDoBwF_CyAg@}Bg@uC{@{J{BeI{A{MuBaJcAgAIoBUgGa@cFUgFMmMCiIHeN`@eB@yOzAcFn@iLdBiJlBiD|@_FfB_CdAaEvB}FvDqJhHiEnCuEvBaErA}Bj@_Eh@kCNsDF}CIkDYaEu@}DgAmDwA{CaBaDyBoCyB}CaDaCwCwCiEqCaFsCoGgH{QsGyPeDwHsD{HyEwIuEsH{DwFgE{FoIoKcHiIuGqHyJ_KeBcBUMaMkKoHsF}I}FaEeCuJkFgGuCyGqCoKyDqGmB{F{AcNgDqEsAiLcEwJiEmGaD{EqCiJ_GmEeDkIuGqHyGyJcKqDgE_FaG{IwLkEwGqGmKwEuImJcRuGgNeFeLsKmWwG_QsHqSiGiQgKc[mIqWaPsg@uCsI{CkIqB}EyByEuAgCwA}B{CoEsAcBaAgAaC{B{B_B}@m@yBgAaC{@{A]eC]iIa@uB]wBm@}B_A_CoAaC}AoDwC}CyCaDgDsSqUeHsHoHkHsG{FaF{D_GeEiF_DiEcCiOeIeDqB}DmC_CqBkBkBqCkDcBiCkC_F_AkBmB_Fy@}BgAiDcAqDaCkJaB}HsCyNeKyi@mCwM{DuQuCiMkBwHeFmRcDyKwDkLaBuEwEyLgDcImFgLeF}J_HeMuBcEy@oBs@oB@Wq@eCc@aCUiBIaB?sBPiBn@_EHgAAoAKaAW}@]s@o@u@cBmAyC{A_DeAkCa@k@GmFEuEZyW~C}Bf@oBr@sBfA}s@rf@oDtBsClAmDbAyKdCaU|EoEn@aCNsCBsCOwBS}Be@sBi@oEaBuMcFgCcA{A[iBM_BB{@JgAXoAh@sA`AsArA_AvAy@~AqAhDuCrI_BfEg@`Ay@nAyAxAqFvDq@h@gAlAg@t@{@dBeAxCoArD{@hBa@n@sA|AaAp@{Ar@oU~FgB^}ATqCRwCBcF_@qP}AqBY}DeAiHqBuBa@}@G_A?y@ByB^eA\\cBz@}@l@wDxC{BtAyB|@{A\\oBPcB?qQaAgB?gEP}BT}Dp@_JtB_BNm@?eBO]IaBk@eAq@k@e@eAkAiAeB{ByE_E}IaAeBw@gAsAoA{@k@}Am@}@QyAI_BHaCj@aCn@{AP_A?wAMs@OmBy@mA_Ag@i@}AuBcCqDeAmAgBwAoF}Do@g@_AkAkAiB}AyBo@s@yAgAk@]}@YeAWaAGoCLg@HqAf@oAt@yTnWiChDyBxDkEpIiB~CuBzCqBbCy^|`@sAdAwAv@eBj@iE~@uAj@uAx@mAfAcAjAgAhBw@bB_AvC{Jxa@qAjEeApCkAjCqBpDwCfEiZ~`@kBvCaC`EeAnBqYnn@aAnBsBlDeChDqCzCgLhK_DnDeCpD}ApCsBhEaBdEwArE}BzHo@bBs@vAm@`AwA~AaAp@kAn@yA`@uAN{A?uAOmA]cAg@oA_AuB{B}C_EkDoDiDqCyAiAgC{AoBw@oD{@{FgA}BSeJUqGFkGPuCTcFr@_PbDkCf@aBFgBBKQmEi@}@Bi@LuAx@{DxCe@JW@u@q@I?CMuDsEW]yDiFsCdE[NOK{@_@mFyDgE{Cm@a@_@u@Kk@IgAQmGJWAYMQQ@KR@ZJRB?H~@@|@C\\D@EAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 50.075538099999996,
+              "longitude": 14.437800500000002
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 50.766278799999995,
+              "longitude": 15.0543409
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 9,
+              "staticDuration": "8s",
+              "polyline": {
+                "encodedPolyline": "ckspHg{bwALQ"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075538099999996,
+                  "longitude": 14.437800500000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "9 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "20s",
+              "polyline": {
+                "encodedPolyline": "ujspHy{bwA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Take entrance E1"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "ujspHy{bwA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 87,
+              "staticDuration": "149s",
+              "polyline": {
+                "encodedPolyline": "ujspHy{bwAJsF"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075469999999996,
+                  "longitude": 14.437890099999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.075409,
+                  "longitude": 14.439110000000001
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "87 m"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 1463,
+              "staticDuration": "170s",
+              "polyline": {
+                "encodedPolyline": "ijspHmccwAT?A|FM~BYdC]dB{@fCaAnB_@j@eBjBgAr@aDjBgB|AmA`BoIpM{@zB}@~CeAnEs@|Bi@nAkC~DkCxDAA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075409,
+                  "longitude": 14.439110000000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Subway towards Nemocnice Motol"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.5 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Můstek",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.083558,
+                        "longitude": 14.424559900000002
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:25:40Z",
+                  "departureStop": {
+                    "name": "Náměstí Míru",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.075409,
+                        "longitude": 14.439110000000001
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:22:50Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:25 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:22 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Nemocnice Motol",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Nemocnice Motol - Petřiny - Skalka - Depo Hostivař",
+                  "uri": "https://pid.cz/linka/A",
+                  "color": "#00a54f",
+                  "nameShort": "A",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": {
+                      "text": "Subway"
+                    },
+                    "type": "SUBWAY",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png"
+                  }
+                },
+                "stopCount": 3
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "g}tpHoh`wA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "20s",
+              "polyline": {
+                "encodedPolyline": "g}tpHoh`wA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "88s",
+              "polyline": {
+                "encodedPolyline": "g}tpHoh`wA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 61,
+              "staticDuration": "36s",
+              "polyline": {
+                "encodedPolyline": "g}tpHoh`wAIhD"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.083558,
+                  "longitude": 14.424559900000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0836098,
+                  "longitude": 14.4237069
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "61 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 12150,
+              "staticDuration": "1145s",
+              "polyline": {
+                "encodedPolyline": "q}tpHec`wABCqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGI"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0836098,
+                  "longitude": 14.4237069
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.108967,
+                  "longitude": 14.576832999999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Subway towards Černý Most"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "12.2 km"
+                },
+                "staticDuration": {
+                  "text": "19 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.108967,
+                        "longitude": 14.576832999999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:53:55Z",
+                  "departureStop": {
+                    "name": "Můstek",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.0836098,
+                        "longitude": 14.4237069
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:34:50Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:53 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:34 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Černý Most",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Zličín - Černý Most",
+                  "uri": "https://pid.cz/linka/B",
+                  "color": "#f2c10a",
+                  "nameShort": "B",
+                  "vehicle": {
+                    "name": {
+                      "text": "Subway"
+                    },
+                    "type": "SUBWAY",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png"
+                  }
+                },
+                "stopCount": 11
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 32,
+              "staticDuration": "41s",
+              "polyline": {
+                "encodedPolyline": "a|ypHe`~wATuA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.108967,
+                  "longitude": 14.576832999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.10886,
+                  "longitude": 14.577259999999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Take exit E1"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "32 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 13,
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "k{ypH{b~wACc@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.10886,
+                  "longitude": 14.577259999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.1088812,
+                  "longitude": 14.577440999999999
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "13 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 97453,
+              "staticDuration": "3900s",
+              "polyline": {
+                "encodedPolyline": "s{ypH_d~wANC^~FJ`@V\\HrACl@GTXXt@tA@`@Nn@Ah@On@i@r@YJSCOOMW[uBMyAg@kEEg@MSkD}h@BcCHiAR}@`@u@n@a@HWDOGc@MgC?[@aAFu@b@mAj@{@p@g@j@WvD}@`Dm@tHgBlGuBHIh@Kb@FJTRHLGTd@n@|BZjALj@tBfIP^JDP?XOfBaBdAcAj@y@^{@ZkAtAkMlB}Pf@oF`@{A`@e@ZM^?\\PXb@Nn@Fj@Ct@Sp@a@p@e@h@sInDgMvFyJ`E}G~BgEhAuE~@sI~@kERuF@sBCiCQoFa@]OiEo@_Be@qAi@yAw@wAaAmBcB{@}@qBiCgAcBoAcCgAiCkAgDi@kBe@qBo@sDmDiU{BwQKMaF}`@qEg[iCkPmAeHeBkJ_DmO{CkMeCwJ}C_LwDuLwBuGsB_HkCsHyBsFaBuDcDwGmC{EwEeJkE_IiFuIqFmI_F_HqD{EcGkHcHyH}GaHyHgH_LkJaMuJoUwPa[yTqKgIeJuHsG_GkGgGiFyF{F_HcFcHqEcHwEeI}BkEiF}Kw@kBeDqHuIySeJwTeCkFcDuFgEcG_DoDgCcCgCoBsBoAyDiB}Bw@qDy@cDa@cDMuDDaDX_C^yCz@yChAuCxAaCxAaChB{FvEuCtBqCxA{Bz@}Cv@uBVwBNkCAaCMaC]}Bk@aC{@kDiBwBwAmFcEoJsIgFwEcJyH}EaFiCiC}BkCuCcEsUe_@{p@afA}h@a{@_r@_hAq\\ah@uN_UsA}BiHiNyEkKuDeJ_CqGmB{FyAuEeGmTgFeRoDaLmBiFsB_FaCwEqDaGiCcEkCsEiAyByAkDoAqD_AsDi@kC_@}Bg@aEc@wFg@kKm@wL]kEo@kF{@sFoAiGcAaEuBeHeBaFqDgJkCeGeIaRgDuIsAmD{EmNeBsFcFiQyDsOsBkJmG{YkCkLwC}KyAgFoBqGaC}G_DmIyDaJoDqH{A}CyGuLuBkDwFeImEwFeIoIeFgFoJwIkHwGwEuE{DcEcCqC_FiG_J{LcGoHkCuC_BcBsBoBiCuBoF{DmDsBuE{BmFyBeG}BoNcFiJyDmDgB_GiDiGsEyEaEaG}FuFuGuBmCaPgTcE}EkCwCaDyCmCwB}DiCeEuBuCkAkCq@eDq@uDe@kDQwBAoDHeCJmBPmBXyDr@kL|CyMvDiM`D}N|CkIhAmMfAeBJ{DFmFA_CE}EUgDWeH{@wFcA{D}@uIeC_HeCqD_BuE{B_JeF_HoEyH}FsJeIkQaPqUcTqHoGgMkKgEiEkDcEaCiD_DeF}C_GgBaEeCkGkCgHmC_G}C_G_CqDeCgDq@y@mD{DiEuDoHiF_GwEeC}BwE_FsDkE{ByCuCeEgDoFsBuDmByDkD{HgCoG{CgJyBsHaCkJiBmIeAkE_AkDkA}DkCaIiCyGmByDkDiGeDoFwEkGsFcGoDeDkEkDwFgDmDoBwF_CyAg@}Bg@uC{@{J{BeI{A{MuBaJcAgAIoBUgGa@cFUgFMmMCiIHeN`@eB@yOzAcFn@iLdBiJlBiD|@_FfB_CdAaEvB}FvDqJhHiEnCuEvBaErA}Bj@_Eh@kCNsDF}CIkDYaEu@}DgAmDwA{CaBaDyBoCyB}CaDaCwCwCiEqCaFsCoGgH{QsGyPeDwHsD{HyEwIuEsH{DwFgE{FoIoKcHiIuGqHyJ_KeBcBUMaMkKoHsF}I}FaEeCuJkFgGuCyGqCoKyDqGmB{F{AcNgDqEsAiLcEwJiEmGaD{EqCiJ_GmEeDkIuGqHyGyJcKqDgE_FaG{IwLkEwGqGmKwEuImJcRuGgNeFeLsKmWwG_QsHqSiGiQgKc[mIqWaPsg@uCsI{CkIqB}EyByEuAgCwA}B{CoEsAcBaAgAaC{B{B_B}@m@yBgAaC{@{A]eC]iIa@uB]wBm@}B_A_CoAaC}AoDwC}CyCaDgDsSqUeHsHoHkHsG{FaF{D_GeEiF_DiEcCiOeIeDqB}DmC_CqBkBkBqCkDcBiCkC_F_AkBmB_Fy@}BgAiDcAqDaCkJaB}HsCyNeKyi@mCwM{DuQuCiMkBwHeFmRcDyKwDkLaBuEwEyLgDcImFgLeF}J_HeMuBcEy@oBs@oB@Wq@eCc@aCUiBIaB?sBPiBn@_EHgAAoAKaAW}@]s@o@u@cBmAyC{A_DeAkCa@k@GmFEuEZyW~C}Bf@oBr@sBfA}s@rf@oDtBsClAmDbAyKdCaU|EoEn@aCNsCBsCOwBS}Be@sBi@oEaBuMcFgCcA{A[iBM_BB{@JgAXoAh@sA`AsArA_AvAy@~AqAhDuCrI_BfEg@`Ay@nAyAxAqFvDq@h@gAlAg@t@{@dBeAxCoArD{@hBa@n@sA|AaAp@{Ar@oU~FgB^}ATqCRwCBcF_@qP}AqBY}DeAiHqBuBa@}@G_A?y@ByB^eA\\cBz@}@l@wDxC{BtAyB|@{A\\oBPcB?qQaAgB?gEP}BT}Dp@_JtB_BNm@?eBO]IaBk@eAq@k@e@eAkAiAeB{ByE_E}IaAeBw@gAsAoA{@k@}Am@}@QyAI_BHaCj@aCn@{AP_A?wAMs@OmBy@mA_Ag@i@}AuBcCqDeAmAgBwAoF}Do@g@_AkAkAiB}AyBo@s@yAgAk@]}@YeAWaAGoCLg@HqAf@oAt@yTnWiChDyBxDkEpIiB~CuBzCqBbCy^|`@sAdAwAv@eBj@iE~@uAj@uAx@mAfAcAjAgAhBw@bB_AvC{Jxa@qAjEeApCkAjCqBpDwCfEiZ~`@kBvCaC`EeAnBqYnn@aAnBsBlDeChDqCzCgLhK_DnDeCpD}ApCsBhEaBdEwArE}BzHo@bBs@vAm@`AwA~AaAp@kAn@yA`@uAN{A?uAOmA]cAg@oA_AuB{B}C_EkDoDiDqCyAiAgC{AoBw@oD{@{FgA}BSeJUqGFkGPuCTcFr@_PbDkCf@aBFgBBKQmEi@}@Bi@LuAx@{DxCe@JW@u@q@I?CMuDsEW]yDiFsCdE[NOK{@_@mFyDgE{Cm@a@_@u@Kk@IgAQmGJWAYMQQ@KR@ZJRB?H~@@|@C\\D@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.1088982,
+                  "longitude": 14.5774355
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7647972,
+                  "longitude": 15.056961099999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards Liberec"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "97.5 km"
+                },
+                "staticDuration": {
+                  "text": "1 hour 5 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Liberec Fuegnerova-Blazkova",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.7647972,
+                        "longitude": 15.056961099999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T10:05:00Z",
+                  "departureStop": {
+                    "name": "Praha, Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.1088982,
+                        "longitude": 14.5774355
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T09:00:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "12:05 PM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "11:00 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Liberec",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "RegioJet",
+                      "uri": "https://regiojet.transport-ticket.com/?retailerPartnerNumber=197105&utm_country=CZ&utm_stream=intercity_europe&utm_campaign=gtfs&utm_medium=agency-url&utm_source=googlemaps"
+                    }
+                  ],
+                  "name": "RegioJet 154420: Liberec - Prague",
+                  "color": "#ffffff",
+                  "nameShort": "RegioJet 154420",
+                  "textColor": "#d43910",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 2
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 34,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "e_ztHay{zAOhAEL"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.764829299999995,
+                  "longitude": 15.0569735
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head west on Blažkova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 104,
+              "staticDuration": "80s",
+              "polyline": {
+                "encodedPolyline": "{_ztHiv{zA]m@MDOKuAqB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right toward Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 236,
+              "staticDuration": "176s",
+              "polyline": {
+                "encodedPolyline": "mdztHo{{zAoB`FOZcAdAe@lAG^Bz@HP"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 69,
+              "staticDuration": "55s",
+              "polyline": {
+                "encodedPolyline": "qkztHok{zATTd@NPLZf@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766278799999995,
+                  "longitude": 15.0543409
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_LEFT",
+                "instructions": "Slight left onto Jánská"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "69 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "112 km"
+            },
+            "duration": {
+              "text": "1 hour 51 mins"
+            },
+            "staticDuration": {
+              "text": "1 hour 51 mins"
+            }
+          },
+          "stepsOverview": {
+            "multiModalSegments": [
+              {
+                "stepStartIndex": 0,
+                "stepEndIndex": 3,
+                "navigationInstruction": {
+                  "instructions": "Walk to Náměstí Míru"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 4,
+                "stepEndIndex": 4,
+                "navigationInstruction": {
+                  "instructions": "Subway towards Nemocnice Motol"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 5,
+                "stepEndIndex": 8,
+                "navigationInstruction": {
+                  "instructions": "Walk to Můstek"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 9,
+                "stepEndIndex": 9,
+                "navigationInstruction": {
+                  "instructions": "Subway towards Černý Most"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 10,
+                "stepEndIndex": 11,
+                "navigationInstruction": {
+                  "instructions": "Walk to Praha, Černý Most"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 12,
+                "stepEndIndex": 12,
+                "navigationInstruction": {
+                  "instructions": "Bus towards Liberec"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 13,
+                "stepEndIndex": 16,
+                "travelMode": "WALK"
+              }
+            ]
+          }
+        }
+      ],
+      "distanceMeters": 111711,
+      "duration": "6659s",
+      "staticDuration": "6659s",
+      "polyline": {
+        "encodedPolyline": "ckspHg{bwALQJsFT?A|FM~BYdC]dB{@fCaAnB_@j@eBjBgAr@aDjBgB|AmA`BoIpM{@zB}@~CeAnEs@|Bi@nAkC~DkCxDAAIhDBCqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGITuACc@C?NC^~FJ`@V\\HrACl@GTXXt@tA@`@Nn@Ah@On@i@r@YJSCOOMW[uBMyAg@kEEg@MSkD}h@BcCHiAR}@`@u@n@a@HWDOGc@MgC?[@aAFu@b@mAj@{@p@g@j@WvD}@`Dm@tHgBlGuBHIh@Kb@FJTRHLGTd@n@|BZjALj@tBfIP^JDP?XOfBaBdAcAj@y@^{@ZkAtAkMlB}Pf@oF`@{A`@e@ZM^?\\PXb@Nn@Fj@Ct@Sp@a@p@e@h@sInDgMvFyJ`E}G~BgEhAuE~@sI~@kERuF@sBCiCQoFa@]OiEo@_Be@qAi@yAw@wAaAmBcB{@}@qBiCgAcBoAcCgAiCkAgDi@kBe@qBo@sDmDiU{BwQKMaF}`@qEg[iCkPmAeHeBkJ_DmO{CkMeCwJ}C_LwDuLwBuGsB_HkCsHyBsFaBuDcDwGmC{EwEeJkE_IiFuIqFmI_F_HqD{EcGkHcHyH}GaHyHgH_LkJaMuJoUwPa[yTqKgIeJuHsG_GkGgGiFyF{F_HcFcHqEcHwEeI}BkEiF}Kw@kBeDqHuIySeJwTeCkFcDuFgEcG_DoDgCcCgCoBsBoAyDiB}Bw@qDy@cDa@cDMuDDaDX_C^yCz@yChAuCxAaCxAaChB{FvEuCtBqCxA{Bz@}Cv@uBVwBNkCAaCMaC]}Bk@aC{@kDiBwBwAmFcEoJsIgFwEcJyH}EaFiCiC}BkCuCcEsUe_@{p@afA}h@a{@_r@_hAq\\ah@uN_UsA}BiHiNyEkKuDeJ_CqGmB{FyAuEeGmTgFeRoDaLmBiFsB_FaCwEqDaGiCcEkCsEiAyByAkDoAqD_AsDi@kC_@}Bg@aEc@wFg@kKm@wL]kEo@kF{@sFoAiGcAaEuBeHeBaFqDgJkCeGeIaRgDuIsAmD{EmNeBsFcFiQyDsOsBkJmG{YkCkLwC}KyAgFoBqGaC}G_DmIyDaJoDqH{A}CyGuLuBkDwFeImEwFeIoIeFgFoJwIkHwGwEuE{DcEcCqC_FiG_J{LcGoHkCuC_BcBsBoBiCuBoF{DmDsBuE{BmFyBeG}BoNcFiJyDmDgB_GiDiGsEyEaEaG}FuFuGuBmCaPgTcE}EkCwCaDyCmCwB}DiCeEuBuCkAkCq@eDq@uDe@kDQwBAoDHeCJmBPmBXyDr@kL|CyMvDiM`D}N|CkIhAmMfAeBJ{DFmFA_CE}EUgDWeH{@wFcA{D}@uIeC_HeCqD_BuE{B_JeF_HoEyH}FsJeIkQaPqUcTqHoGgMkKgEiEkDcEaCiD_DeF}C_GgBaEeCkGkCgHmC_G}C_G_CqDeCgDq@y@mD{DiEuDoHiF_GwEeC}BwE_FsDkE{ByCuCeEgDoFsBuDmByDkD{HgCoG{CgJyBsHaCkJiBmIeAkE_AkDkA}DkCaIiCyGmByDkDiGeDoFwEkGsFcGoDeDkEkDwFgDmDoBwF_CyAg@}Bg@uC{@{J{BeI{A{MuBaJcAgAIoBUgGa@cFUgFMmMCiIHeN`@eB@yOzAcFn@iLdBiJlBiD|@_FfB_CdAaEvB}FvDqJhHiEnCuEvBaErA}Bj@_Eh@kCNsDF}CIkDYaEu@}DgAmDwA{CaBaDyBoCyB}CaDaCwCwCiEqCaFsCoGgH{QsGyPeDwHsD{HyEwIuEsH{DwFgE{FoIoKcHiIuGqHyJ_KeBcBUMaMkKoHsF}I}FaEeCuJkFgGuCyGqCoKyDqGmB{F{AcNgDqEsAiLcEwJiEmGaD{EqCiJ_GmEeDkIuGqHyGyJcKqDgE_FaG{IwLkEwGqGmKwEuImJcRuGgNeFeLsKmWwG_QsHqSiGiQgKc[mIqWaPsg@uCsI{CkIqB}EyByEuAgCwA}B{CoEsAcBaAgAaC{B{B_B}@m@yBgAaC{@{A]eC]iIa@uB]wBm@}B_A_CoAaC}AoDwC}CyCaDgDsSqUeHsHoHkHsG{FaF{D_GeEiF_DiEcCiOeIeDqB}DmC_CqBkBkBqCkDcBiCkC_F_AkBmB_Fy@}BgAiDcAqDaCkJaB}HsCyNeKyi@mCwM{DuQuCiMkBwHeFmRcDyKwDkLaBuEwEyLgDcImFgLeF}J_HeMuBcEy@oBs@oB@Wq@eCc@aCUiBIaB?sBPiBn@_EHgAAoAKaAW}@]s@o@u@cBmAyC{A_DeAkCa@k@GmFEuEZyW~C}Bf@oBr@sBfA}s@rf@oDtBsClAmDbAyKdCaU|EoEn@aCNsCBsCOwBS}Be@sBi@oEaBuMcFgCcA{A[iBM_BB{@JgAXoAh@sA`AsArA_AvAy@~AqAhDuCrI_BfEg@`Ay@nAyAxAqFvDq@h@gAlAg@t@{@dBeAxCoArD{@hBa@n@sA|AaAp@{Ar@oU~FgB^}ATqCRwCBcF_@qP}AqBY}DeAiHqBuBa@}@G_A?y@ByB^eA\\cBz@}@l@wDxC{BtAyB|@{A\\oBPcB?qQaAgB?gEP}BT}Dp@_JtB_BNm@?eBO]IaBk@eAq@k@e@eAkAiAeB{ByE_E}IaAeBw@gAsAoA{@k@}Am@}@QyAI_BHaCj@aCn@{AP_A?wAMs@OmBy@mA_Ag@i@}AuBcCqDeAmAgBwAoF}Do@g@_AkAkAiB}AyBo@s@yAgAk@]}@YeAWaAGoCLg@HqAf@oAt@yTnWiChDyBxDkEpIiB~CuBzCqBbCy^|`@sAdAwAv@eBj@iE~@uAj@uAx@mAfAcAjAgAhBw@bB_AvC{Jxa@qAjEeApCkAjCqBpDwCfEiZ~`@kBvCaC`EeAnBqYnn@aAnBsBlDeChDqCzCgLhK_DnDeCpD}ApCsBhEaBdEwArE}BzHo@bBs@vAm@`AwA~AaAp@kAn@yA`@uAN{A?uAOmA]cAg@oA_AuB{B}C_EkDoDiDqCyAiAgC{AoBw@oD{@{FgA}BSeJUqGFkGPuCTcFr@_PbDkCf@aBFgBBKQmEi@}@Bi@LuAx@{DxCe@JW@u@q@I?CMuDsEW]yDiFsCdE[NOK{@_@mFyDgE{Cm@a@_@u@Kk@IgAQmGJWAYMQQ@KR@ZJRB?H~@@|@C\\D@EAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+      },
+      "viewport": {
+        "low": {
+          "latitude": 50.0753,
+          "longitude": 14.4237069
+        },
+        "high": {
+          "latitude": 50.766882300000006,
+          "longitude": 15.1198837
+        }
+      },
+      "travelAdvisory": {
+        "transitFare": {}
+      },
+      "localizedValues": {
+        "distance": {
+          "text": "112 km"
+        },
+        "duration": {
+          "text": "1 hour 51 mins"
+        },
+        "staticDuration": {
+          "text": "1 hour 51 mins"
+        },
+        "transitFare": {}
+      },
+      "routeLabels": [
+        "DEFAULT_ROUTE_ALTERNATE"
+      ]
+    },
+    {
+      "legs": [
+        {
+          "distanceMeters": 94766,
+          "duration": "6856s",
+          "staticDuration": "6856s",
+          "polyline": {
+            "encodedPolyline": "ekspHu{bwA`@@\\HGp@ENx@p@H[AAFSBKAUNOVs@ACFFe@nASFCF_@]u@Us@FKBMNI\\a@jE@\\ZjECj@ETIP_GiDkC}AqXaT{Cm@iJgDcBg@UCQ~A_AjCy@pB_AjDq@fAUV]Hy@SwBUmBGcBDUHsA?aGNiFXa@IaBDOMCa@Dk@Xm@zBl@t@@n@Ov@e@`@sAAMBGWSy@UWuAJKDNxCvFW@I{FMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGITuACc@C?kb_C_t|AEAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 50.0755518,
+              "longitude": 14.437870600000002
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 50.766278799999995,
+              "longitude": 15.0543409
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 34,
+              "staticDuration": "30s",
+              "polyline": {
+                "encodedPolyline": "ekspHu{bwA`@@\\H"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0755518,
+                  "longitude": 14.437870600000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0752257,
+                  "longitude": 14.437805800000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head south on Náměstí Míru"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 16,
+              "staticDuration": "21s",
+              "polyline": {
+                "encodedPolyline": "eispHi{bwAGp@EN"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0752257,
+                  "longitude": 14.437805800000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0752951,
+                  "longitude": 14.4374835
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "16 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 37,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "sispHgybwAx@p@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0752951,
+                  "longitude": 14.4374835
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0750086,
+                  "longitude": 14.437227799999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "37 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 65,
+              "staticDuration": "78s",
+              "polyline": {
+                "encodedPolyline": "ygspHuwbwAH[AAFSBKAUNOVs@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0750086,
+                  "longitude": 14.437227799999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.074717299999996,
+                  "longitude": 14.4379897
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "65 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 2655,
+              "staticDuration": "540s",
+              "polyline": {
+                "encodedPolyline": "afspHq|bwAFFe@nASFCF_@]u@Us@FKBMNI\\a@jE@\\ZjECj@ETIP_GiDkC}AqXaT{Cm@iJgDcBg@UCQ~A_AjCy@pB_AjDq@fAUV]Hy@SwBUmBGcBDUHsA?aGNiFXa@IaBDOMCa@Dk@Xm@zBl@t@@n@Ov@e@`@sA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.074726,
+                  "longitude": 14.438013000000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.090739299999996,
+                  "longitude": 14.438812199999997
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards Florenc"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "2.7 km"
+                },
+                "staticDuration": {
+                  "text": "9 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Praha Ke Štvanici Street",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.090739299999996,
+                        "longitude": 14.438812199999997
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:28:00Z",
+                  "departureStop": {
+                    "name": "Náměstí Míru",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.074726,
+                        "longitude": 14.438013000000002
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:19:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:28 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:19 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Florenc",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Florenc - Chodov",
+                  "uri": "https://pid.cz/linka/135",
+                  "color": "#007da8",
+                  "nameShort": "135",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 5
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 10,
+              "staticDuration": "9s",
+              "polyline": {
+                "encodedPolyline": "ejvpH_bcwABG"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0907542,
+                  "longitude": 14.4388817
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0907273,
+                  "longitude": 14.4389159
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head southeast on Ke Štvanici"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "10 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 66,
+              "staticDuration": "49s",
+              "polyline": {
+                "encodedPolyline": "ajvpHgbcwAWSy@U"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0907273,
+                  "longitude": 14.4389159
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0911425,
+                  "longitude": 14.4391312
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "66 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 33,
+              "staticDuration": "26s",
+              "polyline": {
+                "encodedPolyline": "slvpHqccwAWuA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0911425,
+                  "longitude": 14.4391312
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.091264800000005,
+                  "longitude": 14.4395602
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "33 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 9,
+              "staticDuration": "7s",
+              "polyline": {
+                "encodedPolyline": "kmvpHgfcwAJK"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.091264800000005,
+                  "longitude": 14.4395602
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.091199700000004,
+                  "longitude": 14.439623999999997
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right\nDestination will be on the right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "9 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "22s",
+              "polyline": {
+                "encodedPolyline": "ylvpHcfcwA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.091166799999996,
+                  "longitude": 14.439542399999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.091166799999996,
+                  "longitude": 14.439542399999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Take entrance E1 (B)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 122,
+              "staticDuration": "78s",
+              "polyline": {
+                "encodedPolyline": "ylvpHcfcwAxCvF"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.091166799999996,
+                  "longitude": 14.439542399999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0904032,
+                  "longitude": 14.438301599999997
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 10780,
+              "staticDuration": "970s",
+              "polyline": {
+                "encodedPolyline": "_hvpHk~bwAW@I{FMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGI"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0904032,
+                  "longitude": 14.438301599999997
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.108967,
+                  "longitude": 14.576832999999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Subway towards Černý Most"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "10.8 km"
+                },
+                "staticDuration": {
+                  "text": "16 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.108967,
+                        "longitude": 14.576832999999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:53:55Z",
+                  "departureStop": {
+                    "name": "Florenc",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.0904032,
+                        "longitude": 14.438301599999997
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:37:45Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:53 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:37 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Černý Most",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Zličín - Černý Most",
+                  "uri": "https://pid.cz/linka/B",
+                  "color": "#f2c10a",
+                  "nameShort": "B",
+                  "vehicle": {
+                    "name": {
+                      "text": "Subway"
+                    },
+                    "type": "SUBWAY",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png"
+                  }
+                },
+                "stopCount": 9
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 32,
+              "staticDuration": "41s",
+              "polyline": {
+                "encodedPolyline": "a|ypHe`~wATuA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.108967,
+                  "longitude": 14.576832999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.10886,
+                  "longitude": 14.577259999999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Take exit E1"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "32 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 13,
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "k{ypH{b~wACc@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.10886,
+                  "longitude": 14.577259999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.1088812,
+                  "longitude": 14.577440999999999
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "13 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 80451,
+              "staticDuration": "3900s",
+              "polyline": {
+                "encodedPolyline": "s{ypH_d~wAkb_C_t|A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.1088982,
+                  "longitude": 14.5774355
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7647972,
+                  "longitude": 15.056961099999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards Liberec, AN"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "80.5 km"
+                },
+                "staticDuration": {
+                  "text": "1 hour 5 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Liberec, Fügnerova-Blažkova",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.7647972,
+                        "longitude": 15.056961099999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T10:05:00Z",
+                  "departureStop": {
+                    "name": "Praha, Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.1088982,
+                        "longitude": 14.5774355
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T09:00:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "12:05 PM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "11:00 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Liberec, AN",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "RegioJet a.s.",
+                      "uri": "http://www.regiojet.cz/"
+                    }
+                  ],
+                  "name": "Praha - Liberec",
+                  "color": "#f2f200",
+                  "nameShort": "RegioJet",
+                  "textColor": "#000000",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 2
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 34,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "e_ztHay{zAOhAEL"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.764829299999995,
+                  "longitude": 15.0569735
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head west on Blažkova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 104,
+              "staticDuration": "80s",
+              "polyline": {
+                "encodedPolyline": "{_ztHiv{zA]m@MDOKuAqB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right toward Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 236,
+              "staticDuration": "176s",
+              "polyline": {
+                "encodedPolyline": "mdztHo{{zAoB`FOZcAdAe@lAG^Bz@HP"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 69,
+              "staticDuration": "55s",
+              "polyline": {
+                "encodedPolyline": "qkztHok{zATTd@NPLZf@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766278799999995,
+                  "longitude": 15.0543409
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_LEFT",
+                "instructions": "Slight left onto Jánská"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "69 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "94.8 km"
+            },
+            "duration": {
+              "text": "1 hour 54 mins"
+            },
+            "staticDuration": {
+              "text": "1 hour 54 mins"
+            }
+          },
+          "stepsOverview": {
+            "multiModalSegments": [
+              {
+                "stepStartIndex": 0,
+                "stepEndIndex": 3,
+                "navigationInstruction": {
+                  "instructions": "Walk to Náměstí Míru"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 4,
+                "stepEndIndex": 4,
+                "navigationInstruction": {
+                  "instructions": "Bus towards Florenc"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 5,
+                "stepEndIndex": 10,
+                "navigationInstruction": {
+                  "instructions": "Walk to Florenc"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 11,
+                "stepEndIndex": 11,
+                "navigationInstruction": {
+                  "instructions": "Subway towards Černý Most"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 12,
+                "stepEndIndex": 13,
+                "navigationInstruction": {
+                  "instructions": "Walk to Praha, Černý Most"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 14,
+                "stepEndIndex": 14,
+                "navigationInstruction": {
+                  "instructions": "Bus towards Liberec, AN"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 15,
+                "stepEndIndex": 18,
+                "travelMode": "WALK"
+              }
+            ]
+          }
+        }
+      ],
+      "distanceMeters": 94766,
+      "duration": "6856s",
+      "staticDuration": "6856s",
+      "polyline": {
+        "encodedPolyline": "ekspHu{bwA`@@\\HGp@ENx@p@H[AAFSBKAUNOVs@ACFFe@nASFCF_@]u@Us@FKBMNI\\a@jE@\\ZjECj@ETIP_GiDkC}AqXaT{Cm@iJgDcBg@UCQ~A_AjCy@pB_AjDq@fAUV]Hy@SwBUmBGcBDUHsA?aGNiFXa@IaBDOMCa@Dk@Xm@zBl@t@@n@Ov@e@`@sAAMBGWSy@UWuAJKDNxCvFW@I{FMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGITuACc@C?kb_C_t|AEAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+      },
+      "viewport": {
+        "low": {
+          "latitude": 50.0746889,
+          "longitude": 14.434847399999999
+        },
+        "high": {
+          "latitude": 50.766882300000006,
+          "longitude": 15.0573608
+        }
+      },
+      "travelAdvisory": {
+        "transitFare": {}
+      },
+      "localizedValues": {
+        "distance": {
+          "text": "94.8 km"
+        },
+        "duration": {
+          "text": "1 hour 54 mins"
+        },
+        "staticDuration": {
+          "text": "1 hour 54 mins"
+        },
+        "transitFare": {}
+      },
+      "routeLabels": [
+        "DEFAULT_ROUTE_ALTERNATE"
+      ]
+    },
+    {
+      "legs": [
+        {
+          "distanceMeters": 95884,
+          "duration": "7246s",
+          "staticDuration": "7246s",
+          "polyline": {
+            "encodedPolyline": "ekspHu{bwA`@@\\HGp@ENx@p@?bE?p@F?Cd@M\\KJe@^MTG`@?fQGvDIpCA~CMjYO|VM`EY|FK^SNQ@yGy@u@?}@@mDE_COuBc@y@?iAJsDdAAKALxBs@GeAC@bGwACZkBEy@GiBi@qBkAmAkAaAuAy@iBiC}GqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGITuACc@C?kb_C_t|AEAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 50.0755518,
+              "longitude": 14.437870600000002
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 50.766278799999995,
+              "longitude": 15.0543409
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 34,
+              "staticDuration": "30s",
+              "polyline": {
+                "encodedPolyline": "ekspHu{bwA`@@\\H"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0755518,
+                  "longitude": 14.437870600000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0752257,
+                  "longitude": 14.437805800000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head south on Náměstí Míru"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 16,
+              "staticDuration": "21s",
+              "polyline": {
+                "encodedPolyline": "eispHi{bwAGp@EN"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0752257,
+                  "longitude": 14.437805800000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0752951,
+                  "longitude": 14.4374835
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "16 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 37,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "sispHgybwAx@p@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0752951,
+                  "longitude": 14.4374835
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0750086,
+                  "longitude": 14.437227799999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "37 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 70,
+              "staticDuration": "48s",
+              "polyline": {
+                "encodedPolyline": "ygspHuwbwA?bE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0750086,
+                  "longitude": 14.437227799999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.075013299999995,
+                  "longitude": 14.436245699999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "70 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 1886,
+              "staticDuration": "480s",
+              "polyline": {
+                "encodedPolyline": "ygspH_pbwAF?Cd@M\\KJe@^MTG`@?fQGvDIpCA~CMjYO|VM`EY|FK^SNQ@yGy@u@?}@@mDE_COuBc@y@?iAJsDdAAK"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075008,
+                  "longitude": 14.435996
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.081782999999994,
+                  "longitude": 14.419471000000001
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Tram towards Bílá Hora"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.9 km"
+                },
+                "staticDuration": {
+                  "text": "8 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Národní třída",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.081782999999994,
+                        "longitude": 14.419471000000001
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:19:46Z",
+                  "departureStop": {
+                    "name": "Náměstí Míru",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.075008,
+                        "longitude": 14.435996
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:11:46Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:19 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:11 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Bílá Hora",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Bílá Hora - Vypich - Zahradní Město - Nádraží Hostivař",
+                  "uri": "https://pid.cz/linka/22",
+                  "color": "#7a0603",
+                  "nameShort": "22",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": {
+                      "text": "Tram"
+                    },
+                    "type": "TRAM",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png"
+                  }
+                },
+                "stopCount": 6
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 75,
+              "staticDuration": "60s",
+              "polyline": {
+                "encodedPolyline": "ertpHgh_wAxBs@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0817926,
+                  "longitude": 14.419404199999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0811846,
+                  "longitude": 14.4196633
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head south on Spálená toward Purkyňova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "75 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 24,
+              "staticDuration": "19s",
+              "polyline": {
+                "encodedPolyline": "kntpH{i_wAGeA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0811846,
+                  "longitude": 14.4196633
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0812153,
+                  "longitude": 14.420005000000002
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Purkyňova\nDestination will be on the left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "24 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "6s",
+              "polyline": {
+                "encodedPolyline": "wntpH_l_wA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.08124,
+                  "longitude": 14.42
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.08124,
+                  "longitude": 14.42
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Take entrance (Obchodní centrum)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "94s",
+              "polyline": {
+                "encodedPolyline": "wntpH_l_wA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.08124,
+                  "longitude": 14.42
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.08124,
+                  "longitude": 14.42
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "2 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 147,
+              "staticDuration": "72s",
+              "polyline": {
+                "encodedPolyline": "wntpH_l_wAbGwA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.08124,
+                  "longitude": 14.42
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.079941,
+                  "longitude": 14.42044
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 12656,
+              "staticDuration": "1225s",
+              "polyline": {
+                "encodedPolyline": "sftpHwn_wACZkBEy@GiBi@qBkAmAkAaAuAy@iBiC}GqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGI"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.079941,
+                  "longitude": 14.42044
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.108967,
+                  "longitude": 14.576832999999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Subway towards Černý Most"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "12.7 km"
+                },
+                "staticDuration": {
+                  "text": "20 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.108967,
+                        "longitude": 14.576832999999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:47:55Z",
+                  "departureStop": {
+                    "name": "Národní třída",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.079941,
+                        "longitude": 14.42044
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:27:30Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:47 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:27 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Černý Most",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Zličín - Černý Most",
+                  "uri": "https://pid.cz/linka/B",
+                  "color": "#f2c10a",
+                  "nameShort": "B",
+                  "vehicle": {
+                    "name": {
+                      "text": "Subway"
+                    },
+                    "type": "SUBWAY",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png"
+                  }
+                },
+                "stopCount": 12
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 32,
+              "staticDuration": "41s",
+              "polyline": {
+                "encodedPolyline": "a|ypHe`~wATuA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.108967,
+                  "longitude": 14.576832999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.10886,
+                  "longitude": 14.577259999999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Take exit E1"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "32 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 13,
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "k{ypH{b~wACc@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.10886,
+                  "longitude": 14.577259999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.1088812,
+                  "longitude": 14.577440999999999
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "13 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 80451,
+              "staticDuration": "3900s",
+              "polyline": {
+                "encodedPolyline": "s{ypH_d~wAkb_C_t|A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.1088982,
+                  "longitude": 14.5774355
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7647972,
+                  "longitude": 15.056961099999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards Liberec, AN"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "80.5 km"
+                },
+                "staticDuration": {
+                  "text": "1 hour 5 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Liberec, Fügnerova-Blažkova",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.7647972,
+                        "longitude": 15.056961099999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T10:05:00Z",
+                  "departureStop": {
+                    "name": "Praha, Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.1088982,
+                        "longitude": 14.5774355
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T09:00:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "12:05 PM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "11:00 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Liberec, AN",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "RegioJet a.s.",
+                      "uri": "http://www.regiojet.cz/"
+                    }
+                  ],
+                  "name": "Praha - Liberec",
+                  "color": "#f2f200",
+                  "nameShort": "RegioJet",
+                  "textColor": "#000000",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 2
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 34,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "e_ztHay{zAOhAEL"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.764829299999995,
+                  "longitude": 15.0569735
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head west on Blažkova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 104,
+              "staticDuration": "80s",
+              "polyline": {
+                "encodedPolyline": "{_ztHiv{zA]m@MDOKuAqB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right toward Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 236,
+              "staticDuration": "176s",
+              "polyline": {
+                "encodedPolyline": "mdztHo{{zAoB`FOZcAdAe@lAG^Bz@HP"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 69,
+              "staticDuration": "55s",
+              "polyline": {
+                "encodedPolyline": "qkztHok{zATTd@NPLZf@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766278799999995,
+                  "longitude": 15.0543409
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_LEFT",
+                "instructions": "Slight left onto Jánská"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "69 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "95.9 km"
+            },
+            "duration": {
+              "text": "2 hours 1 min"
+            },
+            "staticDuration": {
+              "text": "2 hours 1 min"
+            }
+          },
+          "stepsOverview": {
+            "multiModalSegments": [
+              {
+                "stepStartIndex": 0,
+                "stepEndIndex": 3,
+                "navigationInstruction": {
+                  "instructions": "Walk to Náměstí Míru"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 4,
+                "stepEndIndex": 4,
+                "navigationInstruction": {
+                  "instructions": "Tram towards Bílá Hora"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 5,
+                "stepEndIndex": 9,
+                "navigationInstruction": {
+                  "instructions": "Walk to Národní třída"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 10,
+                "stepEndIndex": 10,
+                "navigationInstruction": {
+                  "instructions": "Subway towards Černý Most"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 11,
+                "stepEndIndex": 12,
+                "navigationInstruction": {
+                  "instructions": "Walk to Praha, Černý Most"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 13,
+                "stepEndIndex": 13,
+                "navigationInstruction": {
+                  "instructions": "Bus towards Liberec, AN"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 14,
+                "stepEndIndex": 17,
+                "travelMode": "WALK"
+              }
+            ]
+          }
+        }
+      ],
+      "distanceMeters": 95884,
+      "duration": "7260s",
+      "staticDuration": "7260s",
+      "polyline": {
+        "encodedPolyline": "ekspHu{bwA`@@\\HGp@ENx@p@?bE?p@F?Cd@M\\KJe@^MTG`@?fQGvDIpCA~CMjYO|VM`EY|FK^SNQ@yGy@u@?}@@mDE_COuBc@y@?iAJsDdAAKALxBs@GeAC@bGwACZkBEy@GiBi@qBkAmAkAaAuAy@iBiC}GqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGITuACc@C?kb_C_t|AEAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+      },
+      "viewport": {
+        "low": {
+          "latitude": 50.07497000000001,
+          "longitude": 14.419249999999998
+        },
+        "high": {
+          "latitude": 50.766882300000006,
+          "longitude": 15.0573608
+        }
+      },
+      "travelAdvisory": {
+        "transitFare": {}
+      },
+      "localizedValues": {
+        "distance": {
+          "text": "95.9 km"
+        },
+        "duration": {
+          "text": "2 hours 1 min"
+        },
+        "staticDuration": {
+          "text": "2 hours 1 min"
+        },
+        "transitFare": {}
+      },
+      "routeLabels": [
+        "DEFAULT_ROUTE_ALTERNATE"
+      ]
+    },
+    {
+      "legs": [
+        {
+          "distanceMeters": 96461,
+          "duration": "7161s",
+          "staticDuration": "7161s",
+          "polyline": {
+            "encodedPolyline": "ekspHu{bwA`@@\\HGp@ENx@p@?bE?p@F?Cd@M\\KJe@^MTG`@?fQGvDIpCA~CMjYO|VM`EYjGH`@NRrC`@zEn@NLJTBXDnCLpAt@lGLpAJpEI@X|@AkAwF{LIJyCyGo@kAqAiB{A{Ak@a@qB}@mBg@{AKaMMoAKiBi@qBkAmAkAaAuAy@iBiC}GqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGITuACc@C?kb_C_t|AEAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 50.0755518,
+              "longitude": 14.437870600000002
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 50.766278799999995,
+              "longitude": 15.0543409
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 34,
+              "staticDuration": "30s",
+              "polyline": {
+                "encodedPolyline": "ekspHu{bwA`@@\\H"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0755518,
+                  "longitude": 14.437870600000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0752257,
+                  "longitude": 14.437805800000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head south on Náměstí Míru"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 16,
+              "staticDuration": "21s",
+              "polyline": {
+                "encodedPolyline": "eispHi{bwAGp@EN"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0752257,
+                  "longitude": 14.437805800000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0752951,
+                  "longitude": 14.4374835
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "16 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 37,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "sispHgybwAx@p@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0752951,
+                  "longitude": 14.4374835
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0750086,
+                  "longitude": 14.437227799999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "37 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 70,
+              "staticDuration": "48s",
+              "polyline": {
+                "encodedPolyline": "ygspHuwbwA?bE"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0750086,
+                  "longitude": 14.437227799999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.075013299999995,
+                  "longitude": 14.436245699999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "70 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 1773,
+              "staticDuration": "420s",
+              "polyline": {
+                "encodedPolyline": "ygspH_pbwAF?Cd@M\\KJe@^MTG`@?fQGvDIpCA~CMjYO|VM`EYjGH`@NRrC`@zEn@NLJTBXDnCLpAt@lGLpAJpEI@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.075008,
+                  "longitude": 14.435996
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.073290899999996,
+                  "longitude": 14.4144918
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Tram towards Sídliště Řepy"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1.8 km"
+                },
+                "staticDuration": {
+                  "text": "7 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Palackého náměstí",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.073290899999996,
+                        "longitude": 14.4144918
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:21:51Z",
+                  "departureStop": {
+                    "name": "Náměstí Míru",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.075008,
+                        "longitude": 14.435996
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:14:51Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:21 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:14 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Sídliště Řepy",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Sídliště Řepy - Sídliště Ďáblice",
+                  "uri": "https://pid.cz/linka/10",
+                  "color": "#8b0202",
+                  "nameShort": "10",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": {
+                      "text": "Tram"
+                    },
+                    "type": "TRAM",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png"
+                  }
+                },
+                "stopCount": 6
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 27,
+              "staticDuration": "27s",
+              "polyline": {
+                "encodedPolyline": "g|rpHsg~vAAkA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0731629,
+                  "longitude": 14.414180199999997
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.073172,
+                  "longitude": 14.414561299999997
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "27 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "15s",
+              "polyline": {
+                "encodedPolyline": "i|rpH_j~vA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.073172,
+                  "longitude": 14.414561299999997
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.073172,
+                  "longitude": 14.414561299999997
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Take entrance E8"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "83s",
+              "polyline": {
+                "encodedPolyline": "i|rpH_j~vA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.073172,
+                  "longitude": 14.414561299999997
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.073172,
+                  "longitude": 14.414561299999997
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "17s",
+              "polyline": {
+                "encodedPolyline": "i|rpH_j~vA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.073172,
+                  "longitude": 14.414561299999997
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.073172,
+                  "longitude": 14.414561299999997
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "staticDuration": "77s",
+              "polyline": {
+                "encodedPolyline": "i|rpH_j~vA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.073172,
+                  "longitude": 14.414561299999997
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.073172,
+                  "longitude": 14.414561299999997
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "1 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 210,
+              "staticDuration": "60s",
+              "polyline": {
+                "encodedPolyline": "i|rpH_j~vAwF{L"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.073172,
+                  "longitude": 14.414561299999997
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.074410699999994,
+                  "longitude": 14.416782600000001
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 13355,
+              "staticDuration": "1305s",
+              "polyline": {
+                "encodedPolyline": "adspH{w~vAIJyCyGo@kAqAiB{A{Ak@a@qB}@mBg@{AKaMMoAKiBi@qBkAmAkAaAuAy@iBiC}GqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGI"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.074410699999994,
+                  "longitude": 14.416782600000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.108967,
+                  "longitude": 14.576832999999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Subway towards Černý Most"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "13.4 km"
+                },
+                "staticDuration": {
+                  "text": "22 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.108967,
+                        "longitude": 14.576832999999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:53:55Z",
+                  "departureStop": {
+                    "name": "Karlovo náměstí",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.074410699999994,
+                        "longitude": 14.416782600000001
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:32:10Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:53 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:32 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Černý Most",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Zličín - Černý Most",
+                  "uri": "https://pid.cz/linka/B",
+                  "color": "#f2c10a",
+                  "nameShort": "B",
+                  "vehicle": {
+                    "name": {
+                      "text": "Subway"
+                    },
+                    "type": "SUBWAY",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png"
+                  }
+                },
+                "stopCount": 13
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 32,
+              "staticDuration": "41s",
+              "polyline": {
+                "encodedPolyline": "a|ypHe`~wATuA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.108967,
+                  "longitude": 14.576832999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.10886,
+                  "longitude": 14.577259999999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Take exit E1"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "32 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 13,
+              "staticDuration": "13s",
+              "polyline": {
+                "encodedPolyline": "k{ypH{b~wACc@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.10886,
+                  "longitude": 14.577259999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.1088812,
+                  "longitude": 14.577440999999999
+                }
+              },
+              "navigationInstruction": {},
+              "localizedValues": {
+                "distance": {
+                  "text": "13 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 80451,
+              "staticDuration": "3900s",
+              "polyline": {
+                "encodedPolyline": "s{ypH_d~wAkb_C_t|A"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.1088982,
+                  "longitude": 14.5774355
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7647972,
+                  "longitude": 15.056961099999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards Liberec, AN"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "80.5 km"
+                },
+                "staticDuration": {
+                  "text": "1 hour 5 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Liberec, Fügnerova-Blažkova",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.7647972,
+                        "longitude": 15.056961099999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T10:05:00Z",
+                  "departureStop": {
+                    "name": "Praha, Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.1088982,
+                        "longitude": 14.5774355
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T09:00:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "12:05 PM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "11:00 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Liberec, AN",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "RegioJet a.s.",
+                      "uri": "http://www.regiojet.cz/"
+                    }
+                  ],
+                  "name": "Praha - Liberec",
+                  "color": "#f2f200",
+                  "nameShort": "RegioJet",
+                  "textColor": "#000000",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 2
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 34,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "e_ztHay{zAOhAEL"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.764829299999995,
+                  "longitude": 15.0569735
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head west on Blažkova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 104,
+              "staticDuration": "80s",
+              "polyline": {
+                "encodedPolyline": "{_ztHiv{zA]m@MDOKuAqB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right toward Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 236,
+              "staticDuration": "176s",
+              "polyline": {
+                "encodedPolyline": "mdztHo{{zAoB`FOZcAdAe@lAG^Bz@HP"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 69,
+              "staticDuration": "55s",
+              "polyline": {
+                "encodedPolyline": "qkztHok{zATTd@NPLZf@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766278799999995,
+                  "longitude": 15.0543409
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_LEFT",
+                "instructions": "Slight left onto Jánská"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "69 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "96.5 km"
+            },
+            "duration": {
+              "text": "1 hour 59 mins"
+            },
+            "staticDuration": {
+              "text": "1 hour 59 mins"
+            }
+          },
+          "stepsOverview": {
+            "multiModalSegments": [
+              {
+                "stepStartIndex": 0,
+                "stepEndIndex": 3,
+                "navigationInstruction": {
+                  "instructions": "Walk to Náměstí Míru"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 4,
+                "stepEndIndex": 4,
+                "navigationInstruction": {
+                  "instructions": "Tram towards Sídliště Řepy"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 5,
+                "stepEndIndex": 10,
+                "navigationInstruction": {
+                  "instructions": "Walk to Karlovo náměstí"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 11,
+                "stepEndIndex": 11,
+                "navigationInstruction": {
+                  "instructions": "Subway towards Černý Most"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 12,
+                "stepEndIndex": 13,
+                "navigationInstruction": {
+                  "instructions": "Walk to Praha, Černý Most"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 14,
+                "stepEndIndex": 14,
+                "navigationInstruction": {
+                  "instructions": "Bus towards Liberec, AN"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 15,
+                "stepEndIndex": 18,
+                "travelMode": "WALK"
+              }
+            ]
+          }
+        }
+      ],
+      "distanceMeters": 96461,
+      "duration": "7075s",
+      "staticDuration": "7075s",
+      "polyline": {
+        "encodedPolyline": "ekspHu{bwA`@@\\HGp@ENx@p@?bE?p@F?Cd@M\\KJe@^MTG`@?fQGvDIpCA~CMjYO|VM`EYjGH`@NRrC`@zEn@NLJTBXDnCLpAt@lGLpAJpEI@X|@AkAwF{LIJyCyGo@kAqAiB{A{Ak@a@qB}@mBg@{AKaMMoAKiBi@qBkAmAkAaAuAy@iBiC}GqBmFm@gAoA}Au@q@qBgAs@YkAm@sAi@iByA{@aAi@u@eAyBe@{A{CyLkD}M{@iEa@qDKmBYqTMcQIgCI}@q@sFuF_`@gEcYSiAg@qBoTws@cByF_B_Fu@cBiAkBkBiCyQmTuB_D]m@_AeCi@}AcEmO_A_Ei@aEOiCCgCDeD~@iZF{EG_DOsCM_Be@gDc@_CkFuScAqEaDaMUm@qAiCaBqCgBiDO]k@iB}@_EsDeRWmBUkCKuCA{C@}@PsD`AmLPeDHsDEsKW}ZM}UBoEJiC\\aERqAdAkFRy@x@_CxFwMVq@f@eBn@oCX{Ad@gD`@cGlCkg@HiBBkDG{Dm@}MsA_ZGqC@wDJaCPyBjBgQNqBNgD?{BM{EgC{YyAcOw@cJk@sIu@yPMaEi@gL{AkUGITuACc@C?kb_C_t|AEAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+      },
+      "viewport": {
+        "low": {
+          "latitude": 50.0731629,
+          "longitude": 14.414180199999997
+        },
+        "high": {
+          "latitude": 50.766882300000006,
+          "longitude": 15.0573608
+        }
+      },
+      "travelAdvisory": {
+        "transitFare": {}
+      },
+      "localizedValues": {
+        "distance": {
+          "text": "96.5 km"
+        },
+        "duration": {
+          "text": "1 hour 58 mins"
+        },
+        "staticDuration": {
+          "text": "1 hour 58 mins"
+        },
+        "transitFare": {}
+      },
+      "routeLabels": [
+        "DEFAULT_ROUTE_ALTERNATE"
+      ]
+    },
+    {
+      "legs": [
+        {
+          "distanceMeters": 110122,
+          "duration": "8376s",
+          "staticDuration": "8376s",
+          "polyline": {
+            "encodedPolyline": "ekspHu{bwA`@@\\HGp@ENx@p@VNEl@?|@?@G??{AHo@hB}FDYAYGUKMSGaC?QSGW?_C@}@OkhA@{@G_OGoS_@gRKe@UWWG}InBSGO]K}FEkEi@uYe@uWQaGr@yOf@cJfEo~@f@aKPcDBiA?eAqBqw@kAic@[uMOkJ?{FAABsEf@kYLsBLWLGJBVXJ`@@r@F^h@bA^ZNBLGL]X_C^NADAAEZICOjAa@a@NwAN@ZL^uCEsEsF?m@O}Ey@uYwFdAybBGeCUaCAsA@s@qEBkDTcBViE`AuDtAgCnAaDrBq@j@oL`Le@DWQs@sAmBwBKAWa@[_AGg@iFsr@q@yFu@yGEc@eAEeJiBiAi@}AqA[_@y@gBgA_Dm@uB_IkSyA_EuBD{B@I@U[wDcBOIYoG?q@IeCOgBc@wCgAaFUeBIqB?yAFqAZcCXsAl@yArEwHl@sAf@eBb@aCRsBF}BC}BGwA[oCWoAcGsTi@uCWcCw@cMOuAWcA[m@]a@_@Qq@Gk@Le@\\UZ[z@Q~@a@fDWrAg@nAwC~EoAdCa@^e@L_@Eo@_@C@IK]y@EKo@`ASTg@h@QDSCOOMW[uBMyAAy@YsD_@}FHAgCq_@Jg@rA[jBf\\DABz@R|CINDp@MBWwDG@_ARGu@[FuGyaAEw@?aA?aAHw@Tg@Z_@b@S^Ah@Rd@f@Zl@Jb@Dl@Al@If@GR_@d@c@RYFMPuCHiE@sBCiCQoFa@]OiEo@_Be@qAi@yAw@wAaAmBcB{@}@qBiCgAcBoAcCgAiCkAgDi@kBe@qBo@sDmDiU{BwQKMaF}`@qEg[iCkPmAeHeBkJ_DmO{CkMeCwJ}C_LwDuLwBuGsB_HkCsHyBsFaBuDcDwGmC{EwEeJkE_IiFuIqFmI_F_HqD{EcGkHcHyH}GaHyHgH_LkJaMuJoUwPa[yTqKgIeJuHsG_GkGgGiFyF{F_HcFcHqEcHwEeI}BkEiF}Kw@kBeDqHuIySeJwTeCkFcDuFgEcG_DoDgCcCgCoBsBoAyDiB}Bw@qDy@cDa@cDMuDDaDX_C^yCz@yChAuCxAaCxAaChB{FvEuCtBqCxA{Bz@}Cv@uBVwBNkCAaCMaC]}Bk@aC{@kDiBwBwAmFcEoJsIgFwEcJyH}EaFiCiC}BkCuCcEsUe_@{p@afA}h@a{@_r@_hAq\\ah@uN_UsA}BiHiNyEkKuDeJ_CqGmB{FyAuEeGmTgFeRoDaLmBiFsB_FaCwEqDaGiCcEkCsEiAyByAkDoAqD_AsDi@kC_@}Bg@aEc@wFg@kKm@wL]kEo@kF{@sFoAiGcAaEuBeHeBaFqDgJkCeGeIaRgDuIsAmD{EmNeBsFcFiQyDsOsBkJmG{YkCkLwC}KyAgFoBqGaC}G_DmIyDaJoDqH{A}CyGuLuBkDwFeImEwFeIoIeFgFoJwIkHwGwEuE{DcEcCqC_FiG_J{LcGoHkCuC_BcBsBoBiCuBoF{DmDsBuE{BmFyBeG}BoNcFiJyDmDgB_GiDiGsEyEaEaG}FuFuGuBmCaPgTcE}EkCwCaDyCmCwB}DiCeEuBuCkAkCq@eDq@uDe@kDQwBAoDHeCJmBPmBXyDr@kL|CyMvDiM`D}N|CkIhAmMfAeBJ{DFmFA_CE}EUgDWeH{@wFcA{D}@uIeC_HeCqD_BuE{B_JeF_HoEyH}FsJeIkQaPqUcTqHoGgMkKgEiEkDcEaCiD_DeF}C_GgBaEeCkGkCgHmC_G}C_G_CqDeCgDq@y@mD{DiEuDoHiF_GwEeC}BwE_FsDkE{ByCuCeEgDoFsBuDmByDkD{HgCoG{CgJyBsHaCkJiBmIeAkE_AkDkA}DkCaIiCyGmByDkDiGeDoFwEkGsFcGoDeDkEkDwFgDmDoBwF_CyAg@}Bg@uC{@{J{BeI{A{MuBaJcAgAIoBUgGa@cFUgFMmMCiIHeN`@eB@yOzAcFn@iLdBiJlBiD|@_FfB_CdAaEvB}FvDqJhHiEnCuEvBaErA}Bj@_Eh@kCNsDF}CIkDYaEu@}DgAmDwA{CaBaDyBoCyB}CaDaCwCwCiEqCaFsCoGgH{QsGyPeDwHsD{HyEwIuEsH{DwFgE{FoIoKcHiIuGqHyJ_KeBcBUMaMkKoHsF}I}FaEeCuJkFgGuCyGqCoKyDqGmB{F{AcNgDqEsAiLcEwJiEmGaD{EqCiJ_GmEeDkIuGqHyGyJcKqDgE_FaG{IwLkEwGqGmKwEuImJcRuGgNeFeLsKmWwG_QsHqSiGiQgKc[mIqWaPsg@uCsI{CkIqB}EyByEuAgCwA}B{CoEsAcBaAgAaC{B{B_B}@m@yBgAaC{@{A]eC]iIa@uB]wBm@}B_A_CoAaC}AoDwC}CyCaDgDsSqUeHsHoHkHsG{FaF{D_GeEiF_DiEcCiOeIeDqB}DmC_CqBkBkBqCkDcBiCkC_F_AkBmB_Fy@}BgAiDcAqDaCkJaB}HsCyNeKyi@mCwM{DuQuCiMkBwHeFmRcDyKwDkLaBuEwEyLgDcImFgLeF}J_HeMuBcEy@oBs@oB@Wq@eCc@aCUiBIaB?sBPiBn@_EHgAAoAKaAW}@]s@o@u@cBmAyC{A_DeAkCa@k@GmFEuEZyW~C}Bf@oBr@sBfA}s@rf@oDtBsClAmDbAyKdCaU|EoEn@aCNsCBsCOwBS}Be@sBi@oEaBuMcFgCcA{A[iBM_BB{@JgAXoAh@sA`AsArA_AvAy@~AqAhDuCrI_BfEg@`Ay@nAyAxAqFvDq@h@gAlAg@t@{@dBeAxCoArD{@hBa@n@sA|AaAp@{Ar@oU~FgB^}ATqCRwCBcF_@qP}AqBY}DeAiHqBuBa@}@G_A?y@ByB^eA\\cBz@}@l@wDxC{BtAyB|@{A\\oBPcB?qQaAgB?gEP}BT}Dp@_JtB_BNm@?eBO]IaBk@eAq@k@e@eAkAiAeB{ByE_E}IaAeBw@gAsAoA{@k@}Am@}@QyAI_BHaCj@aCn@{AP_A?wAMs@OmBy@mA_Ag@i@}AuBcCqDeAmAgBwAoF}Do@g@_AkAkAiB}AyBo@s@yAgAk@]}@YeAWaAGoCLg@HqAf@oAt@yTnWiChDyBxDkEpIiB~CuBzCqBbCy^|`@sAdAwAv@eBj@iE~@uAj@uAx@mAfAcAjAgAhBw@bB_AvC{Jxa@qAjEeApCkAjCqBpDwCfEiZ~`@kBvCaC`EeAnBqYnn@aAnBsBlDeChDqCzCgLhK_DnDeCpD}ApCsBhEaBdEwArE}BzHo@bBs@vAm@`AwA~AaAp@kAn@yA`@uAN{A?uAOmA]cAg@oA_AuB{B}C_EkDoDiDqCyAiAgC{AoBw@oD{@{FgA}BSeJUqGFkGPuCTcFr@_PbDkCf@aBFgBBKQmEi@}@Bi@LuAx@{DxCe@JW@u@q@I?CMuDsEW]yDiFsCdE[NOK{@_@mFyDgE{Cm@a@_@u@Kk@IgAe@SPyAEAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+          },
+          "startLocation": {
+            "latLng": {
+              "latitude": 50.0755518,
+              "longitude": 14.437870600000002
+            }
+          },
+          "endLocation": {
+            "latLng": {
+              "latitude": 50.766278799999995,
+              "longitude": 15.0543409
+            }
+          },
+          "steps": [
+            {
+              "distanceMeters": 34,
+              "staticDuration": "30s",
+              "polyline": {
+                "encodedPolyline": "ekspHu{bwA`@@\\H"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0755518,
+                  "longitude": 14.437870600000002
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0752257,
+                  "longitude": 14.437805800000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head south on Náměstí Míru"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 16,
+              "staticDuration": "21s",
+              "polyline": {
+                "encodedPolyline": "eispHi{bwAGp@EN"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0752257,
+                  "longitude": 14.437805800000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0752951,
+                  "longitude": 14.4374835
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "16 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 51,
+              "staticDuration": "39s",
+              "polyline": {
+                "encodedPolyline": "sispHgybwAx@p@VN"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0752951,
+                  "longitude": 14.4374835
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.074890599999996,
+                  "longitude": 14.4371504
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "51 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 39,
+              "staticDuration": "27s",
+              "polyline": {
+                "encodedPolyline": "agspHewbwAEl@?|@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.074890599999996,
+                  "longitude": 14.4371504
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0749248,
+                  "longitude": 14.436608800000002
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "39 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 6411,
+              "staticDuration": "1260s",
+              "polyline": {
+                "encodedPolyline": "ggspHwsbwAG??{AHo@hB}FDYAYGUKMSGaC?QSGW?_C@}@OkhA@{@G_OGoS_@gRKe@UWWG}InBSGO]K}FEkEi@uYe@uWQaGr@yOf@cJfEo~@f@aKPcDBiA?eAqBqw@kAic@[uMOkJ?{FAABsEf@kYLsBLWLGJBVXJ`@@r@F^h@bA^ZNBLGL]X_C^N"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.074920999999996,
+                  "longitude": 14.436599999999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.076252,
+                  "longitude": 14.516887
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Tram towards Ústřední dílny DP"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "6.4 km"
+                },
+                "staticDuration": {
+                  "text": "21 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Depo Hostivař",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.076252,
+                        "longitude": 14.516887
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T08:29:21Z",
+                  "departureStop": {
+                    "name": "Náměstí Míru",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.074920999999996,
+                        "longitude": 14.436599999999999
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:08:21Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:29 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:08 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Ústřední dílny DP",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Sídliště Řepy - Kotlářka - Ústřední dílny Dopravního podniku",
+                  "uri": "https://pid.cz/linka/16",
+                  "color": "#7a0603",
+                  "nameShort": "16",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": {
+                      "text": "Tram"
+                    },
+                    "type": "TRAM",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/tram2.png"
+                  }
+                },
+                "stopCount": 17
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 5,
+              "staticDuration": "4s",
+              "polyline": {
+                "encodedPolyline": "sospHkirwAAA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0762566,
+                  "longitude": 14.516860899999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0762747,
+                  "longitude": 14.516868699999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head north"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "5 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 44,
+              "staticDuration": "36s",
+              "polyline": {
+                "encodedPolyline": "uospHmirwAEZICOjA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0762747,
+                  "longitude": 14.516868699999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0764263,
+                  "longitude": 14.516371599999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "44 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 25,
+              "staticDuration": "19s",
+              "polyline": {
+                "encodedPolyline": "upspHifrwAa@a@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.0764263,
+                  "longitude": 14.516371599999998
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.076596699999996,
+                  "longitude": 14.516541400000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "25 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 37,
+              "staticDuration": "29s",
+              "polyline": {
+                "encodedPolyline": "wqspHkgrwANwA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.076596699999996,
+                  "longitude": 14.516541400000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.0765235,
+                  "longitude": 14.5169758
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right\nDestination will be on the right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "37 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 9005,
+              "staticDuration": "1260s",
+              "polyline": {
+                "encodedPolyline": "wpspHajrwAZL^uCEsEsF?m@O}Ey@uYwFdAybBGeCUaCAsA@s@qEBkDTcBViE`AuDtAgCnAaDrBq@j@oL`Le@DWQs@sAmBwBKAWa@[_AGg@iFsr@q@yFu@yGEc@eAEeJiBiAi@}AqA[_@y@gBgA_Dm@uB_IkSyA_EuBD{B@I@U[wDcBOIYoG?q@IeCOgBc@wCgAaFUeBIqB?yAFqAZcCXsAl@yArEwHl@sAf@eBb@aCRsBF}BC}BGwA[oCWoAcGsTi@uCWcCw@cMOuAWcA[m@]a@_@Qq@Gk@Le@\\UZ[z@Q~@a@fDWrAg@nAwC~EoAdCa@^e@L_@Eo@_@C@IK]y@EKo@`ASTg@h@QDSCOOMW[uBMyAAy@YsD_@}FHAgCq_@Jg@rA[jBf\\DA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.076443,
+                  "longitude": 14.516969
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.108768,
+                  "longitude": 14.577973
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards Ve Žlíbku"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "9.0 km"
+                },
+                "staticDuration": {
+                  "text": "21 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.108768,
+                        "longitude": 14.577973
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T09:05:00Z",
+                  "departureStop": {
+                    "name": "Depo Hostivař",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.076443,
+                        "longitude": 14.516969
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T08:44:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "11:05 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:44 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Ve Žlíbku",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "Prague Integrated Transport",
+                      "phoneNumber": "+420 234 704 560",
+                      "uri": "https://pid.cz/"
+                    }
+                  ],
+                  "name": "Depo Hostivař - Ve Žlíbku",
+                  "uri": "https://pid.cz/linka/171",
+                  "color": "#007da8",
+                  "nameShort": "171",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 16
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 55,
+              "staticDuration": "44s",
+              "polyline": {
+                "encodedPolyline": "uzypHme~wAR|C"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.1087505,
+                  "longitude": 14.5776708
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.1086488,
+                  "longitude": 14.576883299999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head west\nRestricted usage road"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "55 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 30,
+              "staticDuration": "40s",
+              "polyline": {
+                "encodedPolyline": "azypHo`~wAINDp@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.1086488,
+                  "longitude": 14.576883299999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.1086744,
+                  "longitude": 14.5765537
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right\nTake the stairs"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "30 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 8,
+              "staticDuration": "6s",
+              "polyline": {
+                "encodedPolyline": "ezypHm~}wAMB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.1086744,
+                  "longitude": 14.5765537
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.108744300000005,
+                  "longitude": 14.576530700000001
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "8 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 67,
+              "staticDuration": "55s",
+              "polyline": {
+                "encodedPolyline": "szypHi~}wAWwD"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.108744300000005,
+                  "longitude": 14.576530700000001
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.108864999999994,
+                  "longitude": 14.577446599999998
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right\nDestination will be on the left"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "67 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 93852,
+              "staticDuration": "3900s",
+              "polyline": {
+                "encodedPolyline": "s{ypH_d~wA_ARGu@[FuGyaAEw@?aA?aAHw@Tg@Z_@b@S^Ah@Rd@f@Zl@Jb@Dl@Al@If@GR_@d@c@RYFMPuCHiE@sBCiCQoFa@]OiEo@_Be@qAi@yAw@wAaAmBcB{@}@qBiCgAcBoAcCgAiCkAgDi@kBe@qBo@sDmDiU{BwQKMaF}`@qEg[iCkPmAeHeBkJ_DmO{CkMeCwJ}C_LwDuLwBuGsB_HkCsHyBsFaBuDcDwGmC{EwEeJkE_IiFuIqFmI_F_HqD{EcGkHcHyH}GaHyHgH_LkJaMuJoUwPa[yTqKgIeJuHsG_GkGgGiFyF{F_HcFcHqEcHwEeI}BkEiF}Kw@kBeDqHuIySeJwTeCkFcDuFgEcG_DoDgCcCgCoBsBoAyDiB}Bw@qDy@cDa@cDMuDDaDX_C^yCz@yChAuCxAaCxAaChB{FvEuCtBqCxA{Bz@}Cv@uBVwBNkCAaCMaC]}Bk@aC{@kDiBwBwAmFcEoJsIgFwEcJyH}EaFiCiC}BkCuCcEsUe_@{p@afA}h@a{@_r@_hAq\\ah@uN_UsA}BiHiNyEkKuDeJ_CqGmB{FyAuEeGmTgFeRoDaLmBiFsB_FaCwEqDaGiCcEkCsEiAyByAkDoAqD_AsDi@kC_@}Bg@aEc@wFg@kKm@wL]kEo@kF{@sFoAiGcAaEuBeHeBaFqDgJkCeGeIaRgDuIsAmD{EmNeBsFcFiQyDsOsBkJmG{YkCkLwC}KyAgFoBqGaC}G_DmIyDaJoDqH{A}CyGuLuBkDwFeImEwFeIoIeFgFoJwIkHwGwEuE{DcEcCqC_FiG_J{LcGoHkCuC_BcBsBoBiCuBoF{DmDsBuE{BmFyBeG}BoNcFiJyDmDgB_GiDiGsEyEaEaG}FuFuGuBmCaPgTcE}EkCwCaDyCmCwB}DiCeEuBuCkAkCq@eDq@uDe@kDQwBAoDHeCJmBPmBXyDr@kL|CyMvDiM`D}N|CkIhAmMfAeBJ{DFmFA_CE}EUgDWeH{@wFcA{D}@uIeC_HeCqD_BuE{B_JeF_HoEyH}FsJeIkQaPqUcTqHoGgMkKgEiEkDcEaCiD_DeF}C_GgBaEeCkGkCgHmC_G}C_G_CqDeCgDq@y@mD{DiEuDoHiF_GwEeC}BwE_FsDkE{ByCuCeEgDoFsBuDmByDkD{HgCoG{CgJyBsHaCkJiBmIeAkE_AkDkA}DkCaIiCyGmByDkDiGeDoFwEkGsFcGoDeDkEkDwFgDmDoBwF_CyAg@}Bg@uC{@{J{BeI{A{MuBaJcAgAIoBUgGa@cFUgFMmMCiIHeN`@eB@yOzAcFn@iLdBiJlBiD|@_FfB_CdAaEvB}FvDqJhHiEnCuEvBaErA}Bj@_Eh@kCNsDF}CIkDYaEu@}DgAmDwA{CaBaDyBoCyB}CaDaCwCwCiEqCaFsCoGgH{QsGyPeDwHsD{HyEwIuEsH{DwFgE{FoIoKcHiIuGqHyJ_KeBcBUMaMkKoHsF}I}FaEeCuJkFgGuCyGqCoKyDqGmB{F{AcNgDqEsAiLcEwJiEmGaD{EqCiJ_GmEeDkIuGqHyGyJcKqDgE_FaG{IwLkEwGqGmKwEuImJcRuGgNeFeLsKmWwG_QsHqSiGiQgKc[mIqWaPsg@uCsI{CkIqB}EyByEuAgCwA}B{CoEsAcBaAgAaC{B{B_B}@m@yBgAaC{@{A]eC]iIa@uB]wBm@}B_A_CoAaC}AoDwC}CyCaDgDsSqUeHsHoHkHsG{FaF{D_GeEiF_DiEcCiOeIeDqB}DmC_CqBkBkBqCkDcBiCkC_F_AkBmB_Fy@}BgAiDcAqDaCkJaB}HsCyNeKyi@mCwM{DuQuCiMkBwHeFmRcDyKwDkLaBuEwEyLgDcImFgLeF}J_HeMuBcEy@oBs@oB@Wq@eCc@aCUiBIaB?sBPiBn@_EHgAAoAKaAW}@]s@o@u@cBmAyC{A_DeAkCa@k@GmFEuEZyW~C}Bf@oBr@sBfA}s@rf@oDtBsClAmDbAyKdCaU|EoEn@aCNsCBsCOwBS}Be@sBi@oEaBuMcFgCcA{A[iBM_BB{@JgAXoAh@sA`AsArA_AvAy@~AqAhDuCrI_BfEg@`Ay@nAyAxAqFvDq@h@gAlAg@t@{@dBeAxCoArD{@hBa@n@sA|AaAp@{Ar@oU~FgB^}ATqCRwCBcF_@qP}AqBY}DeAiHqBuBa@}@G_A?y@ByB^eA\\cBz@}@l@wDxC{BtAyB|@{A\\oBPcB?qQaAgB?gEP}BT}Dp@_JtB_BNm@?eBO]IaBk@eAq@k@e@eAkAiAeB{ByE_E}IaAeBw@gAsAoA{@k@}Am@}@QyAI_BHaCj@aCn@{AP_A?wAMs@OmBy@mA_Ag@i@}AuBcCqDeAmAgBwAoF}Do@g@_AkAkAiB}AyBo@s@yAgAk@]}@YeAWaAGoCLg@HqAf@oAt@yTnWiChDyBxDkEpIiB~CuBzCqBbCy^|`@sAdAwAv@eBj@iE~@uAj@uAx@mAfAcAjAgAhBw@bB_AvC{Jxa@qAjEeApCkAjCqBpDwCfEiZ~`@kBvCaC`EeAnBqYnn@aAnBsBlDeChDqCzCgLhK_DnDeCpD}ApCsBhEaBdEwArE}BzHo@bBs@vAm@`AwA~AaAp@kAn@yA`@uAN{A?uAOmA]cAg@oA_AuB{B}C_EkDoDiDqCyAiAgC{AoBw@oD{@{FgA}BSeJUqGFkGPuCTcFr@_PbDkCf@aBFgBBKQmEi@}@Bi@LuAx@{DxCe@JW@u@q@I?CMuDsEW]yDiFsCdE[NOK{@_@mFyDgE{Cm@a@_@u@Kk@IgAe@SPyA"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.1088982,
+                  "longitude": 14.5774355
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7647972,
+                  "longitude": 15.056961099999999
+                }
+              },
+              "navigationInstruction": {
+                "instructions": "Bus towards Liberec (bus station)"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "93.9 km"
+                },
+                "staticDuration": {
+                  "text": "1 hour 5 mins"
+                }
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Liberec Fuegnerova-Blazkova",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.7647972,
+                        "longitude": 15.056961099999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2025-05-31T10:20:00Z",
+                  "departureStop": {
+                    "name": "Praha, Černý Most",
+                    "location": {
+                      "latLng": {
+                        "latitude": 50.1088982,
+                        "longitude": 14.5774355
+                      }
+                    }
+                  },
+                  "departureTime": "2025-05-31T09:15:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "12:20 PM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "11:15 AM"
+                    },
+                    "timeZone": "Europe/Prague"
+                  }
+                },
+                "headsign": "Liberec (bus station)",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "FlixBus",
+                      "uri": "https://global.flixbus.com/?utm_source=googletraveltransport&utm_medium=gmaps_gtransport&utm_campaign=googletraveltransport&utm_content=com.flixbus"
+                    }
+                  ],
+                  "name": "Prague - Liberec",
+                  "color": "#73d700",
+                  "nameShort": "FlixBus 852",
+                  "textColor": "#ffffff",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 2
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "distanceMeters": 34,
+              "staticDuration": "28s",
+              "polyline": {
+                "encodedPolyline": "e_ztHay{zAOhAEL"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.764829299999995,
+                  "longitude": 15.0569735
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "DEPART",
+                "instructions": "Head west on Blažkova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "34 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 104,
+              "staticDuration": "80s",
+              "polyline": {
+                "encodedPolyline": "{_ztHiv{zA]m@MDOKuAqB"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7649385,
+                  "longitude": 15.056529399999999
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_RIGHT",
+                "instructions": "Turn right toward Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.1 km"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 236,
+              "staticDuration": "176s",
+              "polyline": {
+                "encodedPolyline": "mdztHo{{zAoB`FOZcAdAe@lAG^Bz@HP"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.7656717,
+                  "longitude": 15.0573608
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_LEFT",
+                "instructions": "Turn left onto Fügnerova"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "0.2 km"
+                },
+                "staticDuration": {
+                  "text": "3 mins"
+                }
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "distanceMeters": 69,
+              "staticDuration": "55s",
+              "polyline": {
+                "encodedPolyline": "qkztHok{zATTd@NPLZf@"
+              },
+              "startLocation": {
+                "latLng": {
+                  "latitude": 50.766810899999996,
+                  "longitude": 15.0548047
+                }
+              },
+              "endLocation": {
+                "latLng": {
+                  "latitude": 50.766278799999995,
+                  "longitude": 15.0543409
+                }
+              },
+              "navigationInstruction": {
+                "maneuver": "TURN_SLIGHT_LEFT",
+                "instructions": "Slight left onto Jánská"
+              },
+              "localizedValues": {
+                "distance": {
+                  "text": "69 m"
+                },
+                "staticDuration": {
+                  "text": "1 min"
+                }
+              },
+              "travelMode": "WALK"
+            }
+          ],
+          "localizedValues": {
+            "distance": {
+              "text": "110 km"
+            },
+            "duration": {
+              "text": "2 hours 20 mins"
+            },
+            "staticDuration": {
+              "text": "2 hours 20 mins"
+            }
+          },
+          "stepsOverview": {
+            "multiModalSegments": [
+              {
+                "stepStartIndex": 0,
+                "stepEndIndex": 3,
+                "navigationInstruction": {
+                  "instructions": "Walk to Náměstí Míru"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 4,
+                "stepEndIndex": 4,
+                "navigationInstruction": {
+                  "instructions": "Tram towards Ústřední dílny DP"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 5,
+                "stepEndIndex": 8,
+                "navigationInstruction": {
+                  "instructions": "Walk to Depo Hostivař"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 9,
+                "stepEndIndex": 9,
+                "navigationInstruction": {
+                  "instructions": "Bus towards Ve Žlíbku"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 10,
+                "stepEndIndex": 13,
+                "navigationInstruction": {
+                  "instructions": "Walk to Praha, Černý Most"
+                },
+                "travelMode": "WALK"
+              },
+              {
+                "stepStartIndex": 14,
+                "stepEndIndex": 14,
+                "navigationInstruction": {
+                  "instructions": "Bus towards Liberec (bus station)"
+                },
+                "travelMode": "TRANSIT"
+              },
+              {
+                "stepStartIndex": 15,
+                "stepEndIndex": 18,
+                "travelMode": "WALK"
+              }
+            ]
+          }
+        }
+      ],
+      "distanceMeters": 110122,
+      "duration": "8356s",
+      "staticDuration": "8356s",
+      "polyline": {
+        "encodedPolyline": "ekspHu{bwA`@@\\HGp@ENx@p@VNEl@?|@?@G??{AHo@hB}FDYAYGUKMSGaC?QSGW?_C@}@OkhA@{@G_OGoS_@gRKe@UWWG}InBSGO]K}FEkEi@uYe@uWQaGr@yOf@cJfEo~@f@aKPcDBiA?eAqBqw@kAic@[uMOkJ?{FAABsEf@kYLsBLWLGJBVXJ`@@r@F^h@bA^ZNBLGL]X_C^NADAAEZICOjAa@a@NwAN@ZL^uCEsEsF?m@O}Ey@uYwFdAybBGeCUaCAsA@s@qEBkDTcBViE`AuDtAgCnAaDrBq@j@oL`Le@DWQs@sAmBwBKAWa@[_AGg@iFsr@q@yFu@yGEc@eAEeJiBiAi@}AqA[_@y@gBgA_Dm@uB_IkSyA_EuBD{B@I@U[wDcBOIYoG?q@IeCOgBc@wCgAaFUeBIqB?yAFqAZcCXsAl@yArEwHl@sAf@eBb@aCRsBF}BC}BGwA[oCWoAcGsTi@uCWcCw@cMOuAWcA[m@]a@_@Qq@Gk@Le@\\UZ[z@Q~@a@fDWrAg@nAwC~EoAdCa@^e@L_@Eo@_@C@IK]y@EKo@`ASTg@h@QDSCOOMW[uBMyAAy@YsD_@}FHAgCq_@Jg@rA[jBf\\DABz@R|CINDp@MBWwDG@_ARGu@[FuGyaAEw@?aA?aAHw@Tg@Z_@b@S^Ah@Rd@f@Zl@Jb@Dl@Al@If@GR_@d@c@RYFMPuCHiE@sBCiCQoFa@]OiEo@_Be@qAi@yAw@wAaAmBcB{@}@qBiCgAcBoAcCgAiCkAgDi@kBe@qBo@sDmDiU{BwQKMaF}`@qEg[iCkPmAeHeBkJ_DmO{CkMeCwJ}C_LwDuLwBuGsB_HkCsHyBsFaBuDcDwGmC{EwEeJkE_IiFuIqFmI_F_HqD{EcGkHcHyH}GaHyHgH_LkJaMuJoUwPa[yTqKgIeJuHsG_GkGgGiFyF{F_HcFcHqEcHwEeI}BkEiF}Kw@kBeDqHuIySeJwTeCkFcDuFgEcG_DoDgCcCgCoBsBoAyDiB}Bw@qDy@cDa@cDMuDDaDX_C^yCz@yChAuCxAaCxAaChB{FvEuCtBqCxA{Bz@}Cv@uBVwBNkCAaCMaC]}Bk@aC{@kDiBwBwAmFcEoJsIgFwEcJyH}EaFiCiC}BkCuCcEsUe_@{p@afA}h@a{@_r@_hAq\\ah@uN_UsA}BiHiNyEkKuDeJ_CqGmB{FyAuEeGmTgFeRoDaLmBiFsB_FaCwEqDaGiCcEkCsEiAyByAkDoAqD_AsDi@kC_@}Bg@aEc@wFg@kKm@wL]kEo@kF{@sFoAiGcAaEuBeHeBaFqDgJkCeGeIaRgDuIsAmD{EmNeBsFcFiQyDsOsBkJmG{YkCkLwC}KyAgFoBqGaC}G_DmIyDaJoDqH{A}CyGuLuBkDwFeImEwFeIoIeFgFoJwIkHwGwEuE{DcEcCqC_FiG_J{LcGoHkCuC_BcBsBoBiCuBoF{DmDsBuE{BmFyBeG}BoNcFiJyDmDgB_GiDiGsEyEaEaG}FuFuGuBmCaPgTcE}EkCwCaDyCmCwB}DiCeEuBuCkAkCq@eDq@uDe@kDQwBAoDHeCJmBPmBXyDr@kL|CyMvDiM`D}N|CkIhAmMfAeBJ{DFmFA_CE}EUgDWeH{@wFcA{D}@uIeC_HeCqD_BuE{B_JeF_HoEyH}FsJeIkQaPqUcTqHoGgMkKgEiEkDcEaCiD_DeF}C_GgBaEeCkGkCgHmC_G}C_G_CqDeCgDq@y@mD{DiEuDoHiF_GwEeC}BwE_FsDkE{ByCuCeEgDoFsBuDmByDkD{HgCoG{CgJyBsHaCkJiBmIeAkE_AkDkA}DkCaIiCyGmByDkDiGeDoFwEkGsFcGoDeDkEkDwFgDmDoBwF_CyAg@}Bg@uC{@{J{BeI{A{MuBaJcAgAIoBUgGa@cFUgFMmMCiIHeN`@eB@yOzAcFn@iLdBiJlBiD|@_FfB_CdAaEvB}FvDqJhHiEnCuEvBaErA}Bj@_Eh@kCNsDF}CIkDYaEu@}DgAmDwA{CaBaDyBoCyB}CaDaCwCwCiEqCaFsCoGgH{QsGyPeDwHsD{HyEwIuEsH{DwFgE{FoIoKcHiIuGqHyJ_KeBcBUMaMkKoHsF}I}FaEeCuJkFgGuCyGqCoKyDqGmB{F{AcNgDqEsAiLcEwJiEmGaD{EqCiJ_GmEeDkIuGqHyGyJcKqDgE_FaG{IwLkEwGqGmKwEuImJcRuGgNeFeLsKmWwG_QsHqSiGiQgKc[mIqWaPsg@uCsI{CkIqB}EyByEuAgCwA}B{CoEsAcBaAgAaC{B{B_B}@m@yBgAaC{@{A]eC]iIa@uB]wBm@}B_A_CoAaC}AoDwC}CyCaDgDsSqUeHsHoHkHsG{FaF{D_GeEiF_DiEcCiOeIeDqB}DmC_CqBkBkBqCkDcBiCkC_F_AkBmB_Fy@}BgAiDcAqDaCkJaB}HsCyNeKyi@mCwM{DuQuCiMkBwHeFmRcDyKwDkLaBuEwEyLgDcImFgLeF}J_HeMuBcEy@oBs@oB@Wq@eCc@aCUiBIaB?sBPiBn@_EHgAAoAKaAW}@]s@o@u@cBmAyC{A_DeAkCa@k@GmFEuEZyW~C}Bf@oBr@sBfA}s@rf@oDtBsClAmDbAyKdCaU|EoEn@aCNsCBsCOwBS}Be@sBi@oEaBuMcFgCcA{A[iBM_BB{@JgAXoAh@sA`AsArA_AvAy@~AqAhDuCrI_BfEg@`Ay@nAyAxAqFvDq@h@gAlAg@t@{@dBeAxCoArD{@hBa@n@sA|AaAp@{Ar@oU~FgB^}ATqCRwCBcF_@qP}AqBY}DeAiHqBuBa@}@G_A?y@ByB^eA\\cBz@}@l@wDxC{BtAyB|@{A\\oBPcB?qQaAgB?gEP}BT}Dp@_JtB_BNm@?eBO]IaBk@eAq@k@e@eAkAiAeB{ByE_E}IaAeBw@gAsAoA{@k@}Am@}@QyAI_BHaCj@aCn@{AP_A?wAMs@OmBy@mA_Ag@i@}AuBcCqDeAmAgBwAoF}Do@g@_AkAkAiB}AyBo@s@yAgAk@]}@YeAWaAGoCLg@HqAf@oAt@yTnWiChDyBxDkEpIiB~CuBzCqBbCy^|`@sAdAwAv@eBj@iE~@uAj@uAx@mAfAcAjAgAhBw@bB_AvC{Jxa@qAjEeApCkAjCqBpDwCfEiZ~`@kBvCaC`EeAnBqYnn@aAnBsBlDeChDqCzCgLhK_DnDeCpD}ApCsBhEaBdEwArE}BzHo@bBs@vAm@`AwA~AaAp@kAn@yA`@uAN{A?uAOmA]cAg@oA_AuB{B}C_EkDoDiDqCyAiAgC{AoBw@oD{@{FgA}BSeJUqGFkGPuCTcFr@_PbDkCf@aBFgBBKQmEi@}@Bi@LuAx@{DxCe@JW@u@q@I?CMuDsEW]yDiFsCdE[NOK{@_@mFyDgE{Cm@a@_@u@Kk@IgAe@SPyAEAOhAEL]m@MDOKuAqBoB`FOZcAdAe@lAG^Bz@HPTTd@NPLZf@"
+      },
+      "viewport": {
+        "low": {
+          "latitude": 50.074349999999995,
+          "longitude": 14.436599999999999
+        },
+        "high": {
+          "latitude": 50.766882300000006,
+          "longitude": 15.1198837
+        }
+      },
+      "travelAdvisory": {
+        "transitFare": {}
+      },
+      "localizedValues": {
+        "distance": {
+          "text": "110 km"
+        },
+        "duration": {
+          "text": "2 hours 19 mins"
+        },
+        "staticDuration": {
+          "text": "2 hours 19 mins"
+        },
+        "transitFare": {}
+      },
+      "routeLabels": [
+        "DEFAULT_ROUTE_ALTERNATE"
+      ]
+    }
+  ]
+}

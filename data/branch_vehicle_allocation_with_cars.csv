@@ -1,0 +1,534 @@
+Name,Location,Lat,Lng,engine_car,evehicle,cars,branch_id
+Benátky nad Jizerou,"Na Burse 595, Benátky nad Jizerou, 29471",50.286017,14.828322,1,1,"['E0001', 'G0001']",1
+Beroun,"Politických vězňů 1940, Beroun, 26601",49.965718,14.072635,1,1,"['E0002', 'G0002']",2
+Blansko,"Wanklovo nám. 1436/3, Blansko, 67801",49.361521,16.643472,1,1,"['E0003', 'G0003']",3
+Bohumín,"tř. Dr. E. Beneše 1124, Bohumín, 73581",49.902906,18.355539,1,1,"['E0004', 'G0004']",4
+Boskovice,"Masarykovo náměstí 15/14, Boskovice, 68001",49.488143,16.659798,1,1,"['E0005', 'G0005']",5
+Brandýs nad Labem,"Ivana Olbrachta 36/1, Brandýs nad Labem-Stará Boleslav, 25001",50.186086,14.661588,1,1,"['E0006', 'G0006']",6
+Brno (Jánská),"Jánská 446/6, Brno, 60200",49.194075,16.609851,1,1,"['E0007', 'G0007']",7
+Kounicova,"Kounicova 952/4, Brno, 60200",49.200143,16.604724,1,1,"['E0008', 'G0008']",8
+OC Campus Square Brno,"Netroufalky 770/16, Brno, 62500",49.177518,16.566113,1,1,"['E0009', 'G0009']",9
+Královo Pole,"Palackého třída 1365/59, Brno, 61200",49.22372,16.594478,1,1,"['E0010', 'G0010']",10
+Vaňkovka,"Ve Vaňkovce 462/1, Brno, 60200",49.188769,16.613859,1,1,"['E0011', 'G0011']",11
+Břeclav,"J. Palacha 2925, Břeclav, 69002",48.756916,16.888427,1,1,"['E0012', 'G0012']",12
+Čáslav,"nám. Jana Žižky z Trocnova 82/17, Čáslav, 28601",49.909866,15.393177,1,1,"['E0013', 'G0013']",13
+Česká Lípa,"Hrnčířská 2985, Česká Lípa, 47001",50.681318,14.537169,1,1,"['E0014', 'G0014']",14
+Česká Třebová,"U Spořitelny 72, Česká Třebová, 56002",49.902712,16.445682,1,1,"['E0015', 'G0015']",15
+České Budějovice,"U Černé věže 69/1, České Budějovice, 37001",48.975231,14.475341,1,1,"['E0016', 'G0016']",16
+Český Krumlov,"Za Tiskárnou 587, Český Krumlov, 38101",48.811052,14.324098,1,1,"['E0017', 'G0017']",17
+Český Těšín,"Jablunkovská 1960/10a, Český Těšín, 73701",49.743252,18.62073,1,1,"['E0018', 'G0018']",18
+Dačice,"Palackého nám. 33, Dačice, 38001",49.080013,15.437942,1,1,"['E0019', 'G0019']",19
+Děčín,"Pohraniční 1385/14, Děčín, 40502",50.7801,14.215881,1,1,"['E0020', 'G0020']",20
+Domažlice,"Msgre. B. Staška 264, Domažlice, 34401",49.439546,12.924547,1,1,"['E0021', 'G0021']",21
+Frýdek-Místek,"8. pěšího pluku 2173, Frýdek-Místek, 73801",49.677615,18.341813,1,1,"['E0022', 'G0022']",22
+Frýdlant nad Ostravicí,"Elektrárenská 66, Frýdlant nad Ostravicí, 73911",49.591939,18.359029,1,1,"['E0023', 'G0023']",23
+Havířov - Město,"nám. Republiky 1521/1b, Havířov, 73601",49.779685,18.4296,1,1,"['E0024', 'G0024']",24
+Havlíčkův Brod,"Havlíčkovo náměstí 168, Havlíčkův Brod, 58001",49.607182,15.580255,1,1,"['E0025', 'G0025']",25
+Hlinsko v Čechách,"Komenského 409, Hlinsko, 53901",49.762151,15.907805,1,1,"['E0026', 'G0026']",26
+Hlučín,"Mírové náměstí 31/27, Hlučín, 74801",49.896348,18.186682,1,1,"['E0027', 'G0027']",27
+Hodonín,"Národní třída 3654/44, Hodonín, 69501",48.854621,17.125273,1,1,"['E0028', 'G0028']",28
+Hořice,"náměstí Jiřího z Poděbrad 342, Hořice, 50801",50.367589,15.632343,1,1,"['E0029', 'G0029']",29
+Hořovice,"Masarykova 161/1, Hořovice, 26801",49.836885,13.895735,1,1,"['E0030', 'G0030']",30
+Hradec Králové - ČSA,"Československé armády 402/25, Hradec Králové, 50003",50.210961,15.830178,1,1,"['E0031', 'G0031']",31
+Střelecká,"třída Karla IV. 1222/25a, Hradec Králové, 50002",50.213539,15.821462,1,1,"['E0032', 'G0032']",32
+Hranice,"Masarykovo náměstí 15, Hranice, 75301",49.547873,17.734053,1,1,"['E0033', 'G0033']",33
+Humpolec,"Dolní náměstí 252, Humpolec, 39601",49.542182,15.358845,1,1,"['E0034', 'G0034']",34
+Hustopeče u Brna,"Dukelské nám. 123/32, Hustopeče, 69301",48.940827,16.73746,1,1,"['E0035', 'G0035']",35
+Cheb,"Májová 71/36, Cheb, 35002",50.075833,12.372451,1,1,"['E0036', 'G0036']",36
+Chlumec nad Cidlinou,"Kozelkova 368, Chlumec nad Cidlinou, 50351",50.156897,15.459135,1,1,"['E0037', 'G0037']",37
+Chomutov,"Palackého 4147, Chomutov, 43001",50.459923,13.415723,1,1,"['E0038', 'G0038']",38
+Chotěboř,"Krále Jana 310, Chotěboř, 58301",49.719134,15.670533,1,1,"['E0039', 'G0039']",39
+Chrudim,"Palackého třída 801, Chrudim, 53701",49.949587,15.790114,1,1,"['E0040', 'G0040']",40
+Jablonec nad Nisou,"Mírové náměstí 626/13, Jablonec nad Nisou, 46601",50.724062,15.171841,1,1,"['E0041', 'G0041']",41
+Jablunkov,"Mariánské náměstí 23, Jablunkov, 73991",49.57608,18.76412,1,1,"['E0042', 'G0042']",42
+Jaroměř,"nám. Československé armády 38, Jaroměř, 55101",50.355575,15.917065,1,1,"['E0043', 'G0043']",43
+Jeseník,"Revoluční 1053/6, Jeseník, 79001",50.228252,17.203959,1,1,"['E0044', 'G0044']",44
+Jičín,"17. listopadu 861, Jičín, 50601",50.43469,15.35571,1,1,"['E0045', 'G0045']",45
+Jihlava,"Křížová 1338/1, Jihlava, 58601",49.396996,15.59019,1,1,"['E0046', 'G0046']",46
+Jindřichův Hradec,"Nádražní 187, Jindřichův Hradec, 37701",49.147923,15.002324,1,1,"['E0047', 'G0047']",47
+Kaplice,"Náměstí 205, Kaplice, 38241",48.738577,14.493555,1,1,"['E0048', 'G0048']",48
+Karlovy Vary,"T. G. Masaryka 2031/14, Karlovy Vary, 36001",50.229705,12.87117,1,1,"['E0049', 'G0049']",49
+Karviná,"Markova 47/3, Karviná, 73301",49.854882,18.543099,1,1,"['E0050', 'G0050']",50
+Kladno,"náměstí Svobody 2003, Kladno, 27201",50.144372,14.093148,1,1,"['E0051', 'G0051']",51
+Klatovy,"nám. Míru 152, Klatovy, 33901",49.39575,13.293246,1,1,"['E0052', 'G0052']",52
+Kolín,"Rubešova 50, Kolín, 28002",50.027983,15.203004,1,1,"['E0053', 'G0053']",53
+Kopřivnice,"Záhumenní 1353/4b, Kopřivnice, 74221",49.599317,18.142225,1,1,"['E0054', 'G0054']",54
+Kralupy nad Vltavou,"Husova 579, Kralupy nad Vltavou, 27801",50.239722,14.311221,1,1,"['E0055', 'G0055']",55
+Kravaře,"Opavská 3306/59, Kravaře, 74721",49.932947,18.013977,1,1,"['E0056', 'G0056']",56
+Krnov,"Hlavní náměstí 95/3, Krnov, 79401",50.08998,17.703297,1,1,"['E0057', 'G0057']",57
+Kroměříž,"Velké náměstí 43/31, Kroměříž, 76701",49.299537,17.393887,1,1,"['E0058', 'G0058']",58
+Kutná Hora,"Štefánikova 52/20, Kutná Hora, 28401",49.95181,15.273002,1,1,"['E0059', 'G0059']",59
+Kyjov,"Masarykovo náměstí 29/2, Kyjov, 69701",49.009986,17.122228,1,1,"['E0060', 'G0060']",60
+Lanškroun,"nám. J. M. Marků 123, Lanškroun, 56301",49.91265,16.611413,1,1,"['E0061', 'G0061']",61
+Ledeč nad Sázavou,"Mostecká 69, Ledeč nad Sázavou, 58401",49.695364,15.277685,1,1,"['E0062', 'G0062']",62
+Liberec,"Felberova 12/9, Liberec, 46001",50.76834,15.059115,1,1,"['E0063', 'G0063']",63
+Litoměřice,"Mírové náměstí 14/6, Litoměřice, 41201",50.533479,14.131703,1,1,"['E0064', 'G0064']",64
+Litomyšl,"Smetanovo náměstí 112, Litomyšl, 57001",49.87061,16.311231,1,1,"['E0065', 'G0065']",65
+Litvínov,"náměstí Míru 37, Litvínov, 43601",50.599157,13.613568,1,1,"['E0066', 'G0066']",66
+Louny,"Mírové náměstí 53, Louny, 44001",50.357649,13.797405,1,1,"['E0067', 'G0067']",67
+Mělník,"Pražská 220/1, Mělník, 27601",50.350437,14.478489,0,1,['E0068'],68
+Mikulov na Moravě,"Komenského 224/1, Mikulov, 69201",48.804302,16.636385,0,1,['E0069'],69
+Milevsko,"nám. E. Beneše 6, Milevsko, 39901",49.450193,14.359987,0,1,['E0070'],70
+TRIO Ml. Boleslav,"Jana Palacha 1297, Mladá Boleslav, 29301",50.428473,14.918168,0,1,['E0071'],71
+Mladá Boleslav,"náměstí Míru 47/9, Mladá Boleslav, 29301",50.412984,14.90654,0,1,['E0072'],72
+Mnichovo Hradiště,"Turnovská 21, Mnichovo Hradiště, 29501",50.523321,14.977945,0,1,['E0073'],73
+OC Olympia Brno,"U dálnice 777, Modřice, 66442",49.134873,16.63241,0,1,['E0074'],74
+Mohelnice,"nám. Svobody 930/23, Mohelnice, 78985",49.777033,16.919245,0,1,['E0075'],75
+Moravská Třebová,"nám. T. G. Masaryka 119/14, Moravská Třebová, 57101",49.758529,16.663893,0,1,['E0076'],76
+Moravské Budějovice,"nám. Míru 2, Moravské Budějovice, 67602",49.05227,15.808515,0,1,['E0077'],77
+Most,"Bankovní 1300, Most, 43401",50.500611,13.641192,0,1,['E0078'],78
+Náchod,"Karlovo náměstí 179, Náchod, 54701",50.417482,16.164605,0,1,['E0079'],79
+Neratovice,"Masarykova 500/19, Neratovice, 27711",50.260436,14.519949,0,1,['E0080'],80
+Nová Paka,"Masarykovo náměstí 3, Nová Paka, 50901",50.494961,15.516007,0,1,['E0081'],81
+Nové Město na Moravě,"Vratislavovo náměstí 5, Nové Město na Moravě, 59231",49.561259,16.074968,0,1,['E0082'],82
+Nové Strašecí,"Čsl. armády 182, Nové Strašecí, 27101",50.152333,13.900586,0,1,['E0083'],83
+Nový Bydžov,"Masarykovo náměstí 507, Nový Bydžov, 50401",50.240987,15.491739,0,1,['E0084'],84
+Nový Jičín,"Štefánikova 2115/13, Nový Jičín, 74101",49.596514,18.008691,0,1,['E0085'],85
+Nymburk,"Náměstí Přemyslovců 14/11, Nymburk, 28802",50.184999,15.041504,0,1,['E0086'],86
+Nymburk - náhradní provoz - Tyršova,"Tyršova 3, Nymburk, 28802",50.184351,15.038824,0,1,['E0087'],87
+Olomouc,"tř. Svobody 401/19, Olomouc, 77900",49.594237,17.247895,0,1,['E0088'],88
+Opava,"náměstí Republiky 425/15, Opava, 74601",49.939217,17.899052,0,1,['E0089'],89
+Orlová,"Osvobození 796, Orlová, 73514",49.871849,18.426858,0,1,['E0090'],90
+Ostrava - Mariánské Hory,"Mariánské náměstí 100/12, Ostrava, 70900",49.828478,18.258912,0,1,['E0091'],91
+Ostrava - Prokešovo nám.,"Prokešovo náměstí 1803/8, Ostrava, 70200",49.841896,18.291547,0,1,['E0092'],92
+Shopping Park Ostrava,"Rudná 3114/114, Ostrava, 70030",49.80078,18.227978,0,1,['E0093'],93
+Ostrava - Poruba (U Soudu),"U Soudu 6198/33, Ostrava, 70800",49.826564,18.186224,0,1,['E0094'],94
+Ostrava - Nová Karolina Park,"28. října 3348/65, Ostrava, 70200",49.831795,18.287584,0,1,['E0095'],95
+Otrokovice - Atrium,"nám. 3. května 1877, Otrokovice, 76502",49.20697,17.534756,0,1,['E0096'],96
+Pacov,"nám. Svobody 320, Pacov, 39501",49.472245,15.002261,0,1,['E0097'],97
+"Pardubice, tř. Míru","třída Míru 72, Pardubice, 53002",50.036217,15.77154,0,1,['E0098'],98
+Pelhřimov,"Masarykovo náměstí 30, Pelhřimov, 39301",49.430508,15.223838,0,1,['E0099'],99
+Písek,"Alšovo nám. 178, Písek, 39701",49.307629,14.14863,0,1,['E0100'],100
+Plzeň - Františkánská,"Františkánská 356/15, Plzeň, 30100",49.745052,13.378001,0,1,['E0101'],101
+OC Olympia Plzeň,"Písecká 972/1, Plzeň, 32600",49.701052,13.425837,0,1,['E0102'],102
+Poděbrady,"Riegrovo náměstí 4/27, Poděbrady, 29001",50.143314,15.121751,0,1,['E0103'],103
+Polička,"Palackého nám. 184, Polička, 57201",49.714934,16.266263,0,1,['E0104'],104
+Vršovické nám.,"Vršovické náměstí 67/8, Praha 10, 10100",50.069571,14.451049,0,1,['E0105'],105
+Praha 2 (Jugoslávská),"Jugoslávská 2578/19, Praha 2, 12000",50.075533,14.433588,0,1,['E0106'],106
+Praha 4 (Budějovická),"Budějovická 1912/64b, Praha 4, 14000",50.044263,14.449451,0,1,['E0107'],107
+Luka,"Mukařovského 2590/2, Praha 5, 15500",50.045318,14.32281,0,1,['E0108'],108
+Praha 5 (Štefánikova),"Štefánikova 247/17, Praha 5, 15000",50.073582,14.403474,0,1,['E0109'],109
+Vítězné nám. 9,"Vítězné náměstí 817/9, Praha 6, 16000",50.101142,14.396565,0,1,['E0110'],110
+Strossmayerovo náměstí,"Strossmayerovo náměstí 976/1, Praha 7, 17000",50.099029,14.433577,0,1,['E0111'],111
+Praha 8 (Sokolovská),"Sokolovská 371/1, Praha 8, 18600",50.091247,14.438456,0,1,['E0112'],112
+Prachatice,"Zvolenská 29, Prachatice, 38301",49.015157,14.000681,0,1,['E0113'],113
+Prostějov,"Žižkovo nám. 137/17, Prostějov, 79601",49.47136,17.109313,0,1,['E0114'],114
+Přerov,"Palackého 2882/16, Přerov, 75002",49.453895,17.447397,0,1,['E0115'],115
+Přibyslav,"Bechyňovo náměstí 7, Přibyslav, 58222",49.576788,15.738584,0,1,['E0116'],116
+Rakovník,"Husovo náměstí 2347, Rakovník, 26901",50.104286,13.731599,0,1,['E0117'],117
+Rokycany,"Malé náměstí 219, Rokycany, 33701",49.741082,13.597903,0,1,['E0118'],118
+Roudnice nad Labem,"Karlovo náměstí 22, Roudnice nad Labem, 41301",50.423669,14.259531,0,1,['E0119'],119
+Sezimovo Ústí,"náměstí Tomáše Bati 664, Sezimovo Ústí, 39102",49.378287,14.701867,0,1,['E0120'],120
+Slaný,"Dr. E. Beneše 99/1, Slaný, 27401",50.23125,14.084055,0,1,['E0121'],121
+Slavkov u Brna,"Palackého náměstí 123, Slavkov u Brna, 68401",49.153455,16.87624,0,1,['E0122'],122
+Soběslav,"náměstí Republiky 104, Soběslav, 39201",49.260173,14.719883,0,1,['E0123'],123
+Sokolov,"Boženy Němcové 2042, Sokolov, 35601",50.176294,12.648201,0,1,['E0124'],124
+Strakonice,"Velké náměstí 55, Strakonice, 38601",49.260914,13.902245,0,1,['E0125'],125
+Stříbro,"Masarykovo náměstí 62, Stříbro, 34901",49.752528,13.004529,0,1,['E0126'],126
+Světlá nad Sázavou,"Komenského 240, Světlá nad Sázavou, 58291",49.669718,15.405576,0,1,['E0127'],127
+Svitavy,"náměstí Míru 111/34, Svitavy, 56802",49.75595,16.471375,0,1,['E0128'],128
+Šternberk,"ČSA 16/24, Šternberk, 78501",49.730307,17.296888,0,1,['E0129'],129
+Šumperk,"Hlavní třída 433/25, Šumperk, 78701",49.966051,16.978319,0,1,['E0130'],130
+Tábor,"9. května 518/10, Tábor, 39002",49.41292,14.667678,0,1,['E0131'],131
+Tachov,"Boženy Němcové 2000, Tachov, 34701",49.794674,12.633958,0,1,['E0132'],132
+Tanvald,"Krkonošská 654, Tanvald, 46841",50.738514,15.307894,0,1,['E0133'],133
+Teplice,"Benešovo náměstí 421/1, Teplice, 41501",50.642504,13.826154,0,1,['E0134'],134
+Trutnov,"Krakonošovo náměstí 20, Trutnov, 54101",50.560193,15.913423,0,1,['E0135'],135
+Třebíč,"Karlovo nám. 132/6, Třebíč, 67401",49.216132,15.879132,0,1,['E0136'],136
+Třeboň,"Svobody 1024, Třeboň, 37901",49.003449,14.761216,0,1,['E0137'],137
+Třinec - Lyžbice,"nám. Svobody 1142, Třinec, 73961",49.667839,18.676153,0,1,['E0138'],138
+Turnov,"náměstí Českého Ráje 94, Turnov, 51101",50.587745,15.157094,0,1,['E0139'],139
+Uherské Hradiště,"Dvořákova 1210, Uherské Hradiště, 68601",49.067601,17.465241,0,1,['E0140'],140
+Uherský Brod,"Masarykovo nám. 71, Uherský Brod, 68801",49.024986,17.645826,0,1,['E0141'],141
+Uničov,"Dr. Beneše 85, Uničov, 78391",49.772528,17.121338,0,1,['E0142'],142
+Ústí nad Labem,"Mírové náměstí 2/5, Ústí nad Labem, 40001",50.660787,14.040883,0,1,['E0143'],143
+Ústí nad Orlicí,"Mírové nám. 87, Ústí nad Orlicí, 56201",49.973937,16.394849,0,1,['E0144'],144
+Valašské Klobouky,"Masarykovo náměstí 277, Valašské Klobouky, 76601",49.140186,18.007304,0,1,['E0145'],145
+Valašské Meziříčí,"Komenského 3, Valašské Meziříčí, 75701",49.471691,17.970853,0,1,['E0146'],146
+Velká Bíteš,"Masarykovo náměstí 7, Velká Bíteš, 59501",49.28797,16.226755,0,1,['E0147'],147
+Velké Meziříčí,"Náměstí  22/24, Velké Meziříčí, 59401",49.354861,16.012182,0,1,['E0148'],148
+Veselí nad Moravou,"tř. Masarykova 131, Veselí nad Moravou, 69801",48.952752,17.380744,0,1,['E0149'],149
+Vimperk,"1. máje 138/5, Vimperk, 38501",49.053914,13.777177,0,1,['E0150'],150
+Vodňany,"Písecká 24, Vodňany, 38901",49.148206,14.17509,0,1,['E0151'],151
+Vrchlabí,"Krkonošská 153, Vrchlabí, 54301",50.625888,15.612499,0,1,['E0152'],152
+Vrchlabí - náhradní provoz - pasáž Gendorf,"Krkonošská 153, Vrchlabí, 54301",50.625888,15.612499,0,1,['E0153'],153
+Vsetín,"Svárov 1080, Vsetín, 75501",49.338084,17.994135,0,1,['E0154'],154
+Vysoké Mýto,"B. Němcové 190, Vysoké Mýto, 56601",49.952917,16.159977,0,1,['E0155'],155
+Vyškov,"Husova 443/2, Vyškov, 68201",49.277547,16.99823,0,1,['E0156'],156
+Zábřeh,"Valová 299/4, Zábřeh, 78901",49.883376,16.87497,0,1,['E0157'],157
+Zlín,"Zarámí 4463, Zlín, 76001",49.228004,17.665203,0,1,['E0158'],158
+Znojmo,"Pontassievská 918/1, Znojmo, 66902",48.85541,16.053437,0,1,['E0159'],159
+Žatec,"náměstí Kruhové 245, Žatec, 43801",50.327108,13.546455,0,1,['E0160'],160
+Žďár nad Sázavou,"nám. Republiky 1450/23, Žďár nad Sázavou, 59101",49.563864,15.94005,0,1,['E0161'],161
+Aš,"Hlavní 2852/57, Aš, 35201",50.220329,12.190663,1,0,['G0068'],162
+Bechyně,"nám. T. G. Masaryka 4, Bechyně, 39165",49.294575,14.469069,1,0,['G0069'],163
+Benešov,"Tyršova 162, Benešov, 25601",49.782695,14.689044,1,0,['G0070'],164
+Benešov nad Ploučnicí,"náměstí Míru 1, Benešov nad Ploučnicí, 40722",50.741738,14.311297,1,0,['G0071'],165
+Bílina,"Wolkerova 73/7, Bílina, 41801",50.548751,13.775441,1,0,['G0072'],166
+Bílovec,"Slezské náměstí 11/40, Bílovec, 74301",49.756661,18.01661,1,0,['G0073'],167
+Blatná,"tř. J. P. Koubka 10, Blatná, 38801",49.425837,13.882008,1,0,['G0074'],168
+Blovice,"Masarykovo náměstí 90, Blovice, 33601",49.581438,13.540056,1,0,['G0075'],169
+Bojkovice,"Sušilova 232, Bojkovice, 68771",49.037064,17.812017,1,0,['G0076'],170
+Bor,"náměstí Republiky 634, Bor, 34802",49.711895,12.773756,1,0,['G0077'],171
+Křídlovická,"Křídlovická 890/2, Brno, 60300",49.188478,16.594946,1,0,['G0078'],172
+Max centrum Brno,"Kubíčkova 1115/8, Brno, 63500",49.221186,16.517797,1,0,['G0079'],173
+Žabovřesky,"Minská 1227/22, Brno, 61600",49.211051,16.584574,1,0,['G0080'],174
+Slatina,"Zlínská 1329/12, Brno, 62700",49.177937,16.685216,0,1,['E0162'],175
+Broumov,"Mírové náměstí 52, Broumov, 55001",50.58591,16.331994,1,0,['G0081'],176
+Bruntál,"Ruská 1449/10, Bruntál, 79201",49.987418,17.460962,1,0,['G0082'],177
+Brušperk,"Kostelní 48, Brušperk, 73944",49.699035,18.225021,0,1,['E0163'],178
+Březnice,"Náměstí 16, Březnice, 26272",49.557667,13.950119,1,0,['G0083'],179
+Bučovice,"Jiráskova 502, Bučovice, 68501",49.150111,17.003338,1,0,['G0084'],180
+Bystřice nad Pernštejnem,"Masarykovo náměstí 298, Bystřice nad Pernštejnem, 59301",49.523243,16.261304,1,0,['G0085'],181
+Bystřice pod Hostýnem,"Obchodní 1575, Bystřice pod Hostýnem, 76861",49.400149,17.671183,1,0,['G0086'],182
+Bzenec,"náměstí Svobody 326, Bzenec, 69681",48.972972,17.265127,1,0,['G0087'],183
+Cvikov,"Jiráskova 96, Cvikov, 47154",50.777456,14.633168,0,1,['E0164'],184
+Čelákovice,"Stankovského 1650, Čelákovice, 25088",50.163537,14.749364,0,1,['E0165'],185
+Červený Kostelec,"náměstí T. G. Masaryka 92, Červený Kostelec, 54941",50.476167,16.093168,1,0,['G0088'],186
+Česká Kamenice,"Náměstí Míru 218, Česká Kamenice, 40721",50.799964,14.417247,0,1,['E0166'],187
+Česká Skalice,"třída T. G. Masaryka 832, Česká Skalice, 55203",50.395434,16.045144,1,0,['G0089'],188
+Č. Budějovice - Sokolská,"Sokolská 970/63, České Budějovice, 37005",48.981244,14.446209,1,0,['G0090'],189
+České Velenice,"třída Čsl. legií 274, České Velenice, 37810",48.767901,14.966856,1,0,['G0091'],190
+Český Brod,"nám. Arnošta z Pardubic 8, Český Brod, 28201",50.074167,14.860073,0,1,['E0167'],191
+Dobruška,"nám. F. L. Věka 26, Dobruška, 51801",50.291439,16.159692,0,1,['E0168'],192
+Dobřany,"Náměstí T. G. M. 160, Dobřany, 33441",49.655643,13.289863,0,1,['E0169'],193
+Dobříš,"Mírové náměstí 1661, Dobříš, 26301",49.780892,14.168398,1,0,['G0092'],194
+Doksy,"náměstí Republiky 45, Doksy, 47201",50.564501,14.655898,1,0,['G0093'],195
+OG Arkáda,"Konečná 452/23, Držovice, 79607",49.48409,17.127183,1,0,['G0094'],196
+Duchcov,"Ferrerova 46/1, Duchcov, 41901",50.602576,13.746997,0,1,['E0170'],197
+Dvůr Králové nad Labem,"náměstí T. G. Masaryka 3, Dvůr Králové nad Labem, 54401",50.432239,15.814138,1,0,['G0095'],198
+Frenštát pod Radhoštěm,"Horní 29, Frenštát pod Radhoštěm, 74401",49.54739,18.212365,1,0,['G0096'],199
+Frýdlant v Čechách,"nám. T. G. Masaryka 103, Frýdlant, 46401",50.92203,15.079296,1,0,['G0097'],200
+Fulnek,"nám. Komenského 78, Fulnek, 74245",49.712862,17.904685,1,0,['G0098'],201
+Hanušovice,"Hlavní 143, Hanušovice, 78833",50.075132,16.931346,1,0,['G0099'],202
+Havířov - Šumbark,"Lidická 886/43, Havířov, 73601",49.799108,18.4012,0,1,['E0171'],203
+Heřmanův Městec,"náměstí Míru 925, Heřmanův Městec, 53803",49.947345,15.665294,1,0,['G0100'],204
+Hluk,"nám. Komenského 57, Hluk, 68725",48.987763,17.528887,1,0,['G0101'],205
+Holešov,"Palackého 1634, Holešov, 76901",49.330444,17.575795,1,0,['G0102'],206
+Holice v Čechách,"náměstí T. G. Masaryka 35, Holice, 53401",50.067985,15.988061,0,1,['E0172'],207
+Holýšov,"Školní 72, Holýšov, 34562",49.593453,13.10017,1,0,['G0103'],208
+Horažďovice,"Strakonická 170, Horažďovice, 34101",49.322099,13.702171,1,0,['G0104'],209
+Horní Bříza,"Třída 1. máje 512, Horní Bříza, 33012",49.842876,13.360824,1,0,['G0105'],210
+Horní Slavkov,"Dlouhá 634/12, Horní Slavkov, 35731",50.138735,12.800246,1,0,['G0106'],211
+Horšovský Týn,"náměstí Republiky 106, Horšovský Týn, 34601",49.529249,12.942999,1,0,['G0107'],212
+Hostinné,"Poštovní 32, Hostinné, 54371",50.541293,15.724695,1,0,['G0108'],213
+Hradec nad Moravicí,"Opavská 687, Hradec nad Moravicí, 74741",49.870901,17.87702,1,0,['G0109'],214
+Hrádek nad Nisou,"Horní náměstí 84, Hrádek nad Nisou, 46334",50.854596,14.843584,0,1,['E0173'],215
+Hronov,"Husova 580, Hronov, 54931",50.478197,16.182371,1,0,['G0110'],216
+Hrušovany nad Jevišovkou,"náměstí Míru 29, Hrušovany nad Jevišovkou, 67167",48.830184,16.40114,0,1,['E0174'],217
+Hulín,"nám. Míru 126, Hulín, 76824",49.316176,17.467093,1,0,['G0111'],218
+Choceň,"Dolní 275, Choceň, 56501",50.000815,16.223221,1,0,['G0112'],219
+Chodov,"Staroměstská 25, Chodov, 35735",50.238667,12.748708,1,0,['G0113'],220
+Chrast u Chrudimi,"U Pošty 395, Chrast, 53851",49.901163,15.935147,1,0,['G0114'],221
+Chrastava,"Turpišova 408, Chrastava, 46331",50.815845,14.966927,1,0,['G0115'],222
+Ivančice,"Palackého náměstí 10/23, Ivančice, 66491",49.1019,16.37718,1,0,['G0116'],223
+Jablonné nad Orlicí,"Náměstí 5. května 14, Jablonné nad Orlicí, 56164",50.029996,16.599508,1,0,['G0117'],224
+Jablonné v Podještědí,"Klášterní 45/1, Jablonné v Podještědí, 47125",50.766507,14.762381,1,0,['G0118'],225
+Jemnice,"Husova 44, Jemnice, 67531",49.018592,15.571125,1,0,['G0119'],226
+Jevíčko,"Palackého nám. 12, Jevíčko, 56943",49.631939,16.711576,1,0,['G0120'],227
+Jilemnice,"Jana Harracha 191, Jilemnice, 51401",50.608903,15.505561,1,0,['G0121'],228
+Jílové u Prahy,"Masarykovo náměstí 18, Jílové u Prahy, 25401",49.894332,14.493957,1,0,['G0122'],229
+Kadaň,"Mírové náměstí 67, Kadaň, 43201",50.377425,13.271432,1,0,['G0123'],230
+OCK Kamenice,"Ringhofferovo náměstí 550, Kamenice, 25168",49.904038,14.585854,1,0,['G0124'],231
+Kamenice nad Lipou,"Masarykova 24, Kamenice nad Lipou, 39470",49.301019,15.077,1,0,['G0125'],232
+OC Varyáda Karlovy Vary,"Kpt. Jaroše 375/31, Karlovy Vary, 36006",50.22694,12.840946,0,1,['E0175'],233
+Karolinka,"Radniční náměstí 42, Karolinka, 75605",49.350869,18.236967,0,1,['E0176'],234
+Kdyně,"Náměstí 135, Kdyně, 34506",49.390853,13.039531,0,1,['E0177'],235
+Kojetín,"Komenského náměstí 39, Kojetín, 75201",49.352327,17.303882,0,1,['E0178'],236
+Kolín - Tyršova,"Tyršova 1053, Kolín, 28002",50.023549,15.189698,1,0,['G0126'],237
+Konice,"Masarykovo nám. 28, Konice, 79852",49.59091,16.888804,1,0,['G0127'],238
+Kostelec nad Černými Lesy,"Pražská 110, Kostelec nad Černými Lesy, 28163",49.993976,14.857978,1,0,['G0128'],239
+Kostelec nad Orlicí,"Palackého náměstí 38, Kostelec nad Orlicí, 51741",50.123026,16.210885,1,0,['G0129'],240
+Kouřim,"Mírové náměstí 120, Kouřim, 28161",50.002582,14.976649,0,1,['E0179'],241
+Králíky,"Velké náměstí 364, Králíky, 56169",50.084557,16.760803,1,0,['G0130'],242
+Kralovice,"Boženy Němcové 953, Kralovice, 33141",49.982009,13.48748,1,0,['G0131'],243
+Králův Dvůr,"Plzeňská 91, Králův Dvůr, 26701",49.942275,14.027536,1,0,['G0132'],244
+Kraslice,"Pohraniční stráže 320/6, Kraslice, 35801",50.329087,12.510148,1,0,['G0133'],245
+Krupka,"Mariánské náměstí 641, Krupka, 41742",50.682401,13.870753,1,0,['G0134'],246
+Kuřim,"Legionářská 1265/70, Kuřim, 66434",49.304655,16.531482,1,0,['G0135'],247
+Kynšperk nad Ohří,"Jiřího z Poděbrad 611/2, Kynšperk nad Ohří, 35751",50.117811,12.531617,0,1,['E0180'],248
+Lázně Bělohrad,"T. G. Masaryka 287, Lázně Bělohrad, 50781",50.428892,15.582479,1,0,['G0136'],249
+Letohrad,"Václavské náměstí 45, Letohrad, 56151",50.036516,16.497751,1,0,['G0137'],250
+Letovice,"Masarykovo náměstí 212/17, Letovice, 67961",49.54643,16.574337,1,0,['G0138'],251
+Libochovice,"náměstí 5. května 47, Libochovice, 41117",50.406393,14.041418,1,0,['G0139'],252
+Lipník nad Bečvou,"náměstí T. G. Masaryka 11/16, Lipník nad Bečvou, 75131",49.526238,17.585875,1,0,['G0140'],253
+Lišov,"třída 5. května 329/138, Lišov, 37372",49.015705,14.609179,1,0,['G0141'],254
+Litovel,"Masarykova 1367/5, Litovel, 78401",49.702376,17.076119,0,1,['E0181'],255
+Lomnice nad Popelkou,"Josefa Jana Fučíka 98, Lomnice nad Popelkou, 51251",50.531382,15.371642,1,0,['G0142'],256
+Lovosice,"Osvoboditelů 1228/28, Lovosice, 41002",50.515428,14.05261,0,1,['E0182'],257
+Luhačovice,"Dr. Veselého 1006, Luhačovice, 76326",49.101936,17.759692,1,0,['G0143'],258
+Lysá nad Labem,"Náměstí B. Hrozného 17/24, Lysá nad Labem, 28922",50.20213,14.840087,1,0,['G0144'],259
+Lysice,"Komenského 581, Lysice, 67971",49.452582,16.538783,0,1,['E0183'],260
+Mariánské Lázně,"Hlavní třída 235/104, Mariánské Lázně, 35301",49.965977,12.701231,1,0,['G0145'],261
+Mariánské Lázně - náhradní provoz - mobilní pobočka,"parkoviště OC Nová Chebská 836/23a, Mariánské Lázně, 35301",49.963479,12.69385,1,0,['G0146'],262
+Městec Králové,"Náměstí Republiky 74, Městec Králové, 28903",50.207855,15.299073,1,0,['G0147'],263
+Město Albrechtice,"Míru 230/7, Město Albrechtice, 79395",50.162321,17.573241,1,0,['G0148'],264
+Milovice,"V Konírnách 519, Milovice, 28924",50.228743,14.874295,1,0,['G0149'],265
+Mimoň,"Mírová 126, Mimoň, 47124",50.657291,14.724602,1,0,['G0150'],266
+Mladá Vožice,"Žižkovo náměstí 80, Mladá Vožice, 39143",49.532476,14.80952,1,0,['G0151'],267
+Mníšek pod Brdy,"náměstí F. X. Svobody 39, Mníšek pod Brdy, 25210",49.865568,14.260119,1,0,['G0152'],268
+Moravský Krumlov,"Komenského 150, Moravský Krumlov, 67201",49.049121,16.314264,1,0,['G0153'],269
+Náměšť nad Oslavou,"Náměšť nad Oslavou 968, Náměšť nad Oslavou, 67571",49.205843,16.156179,1,0,['G0154'],270
+Napajedla,"Masarykovo náměstí 87, Napajedla, 76361",49.173416,17.51316,1,0,['G0155'],271
+Nejdek,"náměstí Karla IV. 9, Nejdek, 36221",50.323542,12.731962,1,0,['G0156'],272
+Němčice nad Hanou,"Horní brána 2, Němčice nad Hanou, 79827",49.34202,17.20426,0,1,['E0184'],273
+Nepomuk,"Plzeňská 19, Nepomuk, 33501",49.485118,13.580582,1,0,['G0157'],274
+Nové Město nad Metují,"Komenského 56, Nové Město nad Metují, 54901",50.349391,16.150888,1,0,['G0158'],275
+Nový Bor,"Tř. T. G. Masaryka 8, Nový Bor, 47301",50.757532,14.555684,1,0,['G0159'],276
+Nýrsko,"prap. Veitla 59, Nýrsko, 34022",49.291089,13.140964,1,0,['G0160'],277
+Nýřany,"Revoluční 589, Nýřany, 33023",49.71304,13.206675,0,1,['E0185'],278
+Odolena Voda,"Horní náměstí 255, Odolena Voda, 25070",50.228931,14.409777,1,0,['G0161'],279
+Odry,"Masarykovo náměstí 46/11, Odry, 74235",49.662367,17.829421,1,0,['G0162'],280
+OC HANÁ Olomouc,"Kafkova 1223/8, Olomouc, 77900",49.575348,17.22804,1,0,['G0163'],281
+Olomouc - OC Šantovka,"Polská 1201/1, Olomouc, 77900",49.587431,17.257917,1,0,['G0164'],282
+Opočno,"Kupkovo nám. 247, Opočno, 51773",50.267441,16.114991,1,0,['G0165'],283
+Ostrava - Dubina,"Horní 263/69, Ostrava, 70030",49.778482,18.252195,1,0,['G0166'],284
+OA Kotva Ostrava-Zábřeh,"Výškovická 2639/110, Ostrava, 70030",49.791824,18.229036,1,0,['G0167'],285
+Ostrava - Poruba 8,"Zdeňka Štěpánka 1787/1, Ostrava, 70800",49.845173,18.168312,1,0,['G0168'],286
+Ostrov,"Staré nám. 30, Ostrov, 36301",50.305047,12.939014,1,0,['G0169'],287
+Pardubice - Skřivánek,"Jana Palacha 2803, Pardubice, 53002",50.026951,15.771036,0,1,['E0186'],288
+Pardubice - Polabiny,"Ohrazenická 310, Pardubice, 53009",50.049822,15.763591,0,1,['E0187'],289
+OC Globus Pardubice,"Poděbradská 293, Pardubice, 53009",50.058288,15.751823,1,0,['G0170'],290
+Planá,"náměstí Svobody 815, Planá, 34815",49.867927,12.739994,0,1,['E0188'],291
+Počátky,"Tyršova 37, Počátky, 39464",49.26132,15.239742,1,0,['G0171'],292
+Podbořany,"Masarykovo náměstí 25, Podbořany, 44101",50.228443,13.407727,1,0,['G0172'],293
+Podivín,"Komenského 824/16, Podivín, 69145",48.826596,16.847257,1,0,['G0173'],294
+Pohořelice,"Vídeňská 994, Pohořelice, 69123",48.980013,16.517172,1,0,['G0174'],295
+Police nad Metují,"Nádražní 377, Police nad Metují, 54954",50.535829,16.232852,1,0,['G0175'],296
+Polná,"Husovo náměstí 50, Polná, 58813",49.487079,15.718559,1,0,['G0176'],297
+Na Perštýně,"Na Perštýně 342/1, Praha 1, 11000",50.082473,14.41889,1,0,['G0177'],298
+Na Příkopě,"Na příkopě 584/29, Praha 1, 11000",50.086508,14.426645,1,0,['G0178'],299
+Václavské náměstí,"Václavské náměstí 799/48, Praha 1, 11000",50.080759,14.427719,1,0,['G0179'],300
+Vodičkova,"Vodičkova 730/9, Praha 1, 11000",50.079657,14.422652,1,0,['G0180'],301
+Starostrašnická,"Starostrašnická 984/47, Praha 10, 10000",50.074964,14.489904,0,1,['E0189'],302
+Topolová,"Topolová 2915/16, Praha 10, 10600",50.056999,14.507997,1,0,['G0181'],303
+Horní Měcholupy,"Veronské náměstí 403, Praha 10, 10900",50.040594,14.558855,1,0,['G0182'],304
+Koněvova 141 - IMADOS,"Koněvova 2660/141, Praha 3, 13000",50.091884,14.474588,1,0,['G0183'],305
+Vinohradská 112,"Vinohradská 1899/112, Praha 3, 13000",50.077448,14.456801,1,0,['G0184'],306
+Novodvorská,"Novodvorská 434/149, Praha 4, 14200",50.024584,14.434949,1,0,['G0185'],307
+Nuselská,"Nuselská 2/1, Praha 4, 14000",50.063952,14.441898,1,0,['G0186'],308
+Háje,"Opatovská 874/25, Praha 4, 14900",50.031165,14.530443,1,0,['G0187'],309
+Centrum Chodov,"Roztylská 2321/19, Praha 4, 14800",50.032064,14.490991,1,0,['G0188'],310
+Sofijské náměstí,"Sofijské náměstí 3404/3, Praha 4, 14300",50.006524,14.416831,1,0,['G0189'],311
+Radotín,"náměstí Osvoboditelů 1409, Praha 5, 15300",49.984066,14.358379,1,0,['G0190'],312
+Praha 6 - Petřiny,"Křenova 438/7, Praha 6, 16200",50.088946,14.344159,1,0,['G0191'],313
+Řepy,"Makovského 1349/2a, Praha 6, 16300",50.064849,14.308567,1,0,['G0192'],314
+Ďáblice,"Burešova 1659/3, Praha 8, 18200",50.127246,14.467849,1,0,['G0193'],315
+Praha 8 - OC Krakov,"Lodžská 850/6, Praha 8, 18100",50.127726,14.417361,1,0,['G0194'],316
+Palmovka,"Na hrázi 121/1, Praha 8, 18000",50.105277,14.473233,1,0,['G0195'],317
+Praha 9 - Centrum Černý Most,"Chlumecká 765/6, Praha 9, 19800",50.107829,14.58476,1,0,['G0196'],318
+OC Čakovice,"Kostelecká 823/77, Praha 9, 19600",50.151405,14.505887,0,1,['E0190'],319
+Horní Počernice,"Náchodská 440/153, Praha 9, 19300",50.116656,14.619517,1,0,['G0197'],320
+Újezd nad Lesy,"Novosibřinská 588, Praha 9, 19016",50.075794,14.661197,1,0,['G0198'],321
+Vysočany,"Pod pekárnami 878/2, Praha 9, 19000",50.11166,14.503921,0,1,['E0191'],322
+Verneřická,"Verneřická 408/3, Praha 9, 19000",50.123742,14.496628,1,0,['G0199'],323
+OC Letňany,"Veselská 663, Praha 9, 19900",50.135454,14.502172,1,0,['G0200'],324
+Přelouč,"Pražská 419, Přelouč, 53501",50.039276,15.559699,0,1,['E0192'],325
+Přeštice,"Masarykovo nám. 111, Přeštice, 33401",49.573113,13.329035,1,0,['G0201'],326
+Příbor,"Místecká 35, Příbor, 74258",49.640502,18.144615,0,1,['E0193'],327
+Příbram,"Náměstí Arnošta z Pardubic 166, Příbram, 26101",49.687022,14.010384,1,0,['G0202'],328
+Rajhrad,"Masarykova 515, Rajhrad, 66461",49.08596,16.604495,1,0,['G0203'],329
+Rosice,"Komenského náměstí 1226, Rosice, 66501",49.182008,16.388669,1,0,['G0204'],330
+Rumburk,"Náměstí Dobrovského 495/22, Rumburk, 40801",50.952229,14.556404,1,0,['G0205'],331
+Rychnov nad Kněžnou,"Staré náměstí 28, Rychnov nad Kněžnou, 51601",50.163292,16.275256,1,0,['G0206'],332
+Rýmařov,"náměstí Míru 218/5, Rýmařov, 79501",49.931505,17.272335,1,0,['G0207'],333
+Říčany,"Masarykovo nám. 35/4, Říčany, 25101",49.991952,14.657547,1,0,['G0208'],334
+Sadská,"Palackého nám. 77, Sadská, 28912",50.135963,14.985319,1,0,['G0209'],335
+Sázava,"nám. Voskovce a Wericha 356, Sázava, 28506",49.875708,14.902101,1,0,['G0210'],336
+Semily,"Husova 4, Semily, 51301",50.60385,15.334442,1,0,['G0211'],337
+Skuteč,"Palackého náměstí 373, Skuteč, 53973",49.843629,15.996745,1,0,['G0212'],338
+Slavičín,"náměstí Mezi Šenky 287, Slavičín, 76321",49.089776,17.874257,1,0,['G0213'],339
+Slušovice,"Dlouhá 19, Slušovice, 76315",49.249057,17.800454,1,0,['G0214'],340
+Sobotka,"Jičínská 420, Sobotka, 50743",50.467723,15.179411,1,0,['G0215'],341
+Solnice,"Vašátkova 45, Solnice, 51701",50.203478,16.237509,1,0,['G0216'],342
+Stod,"Plzeňská 35, Stod, 33301",49.64133,13.165211,1,0,['G0217'],343
+Stráž pod Ralskem,"Revoluční 164, Stráž pod Ralskem, 47127",50.702444,14.803548,1,0,['G0218'],344
+Strážnice,"Předměstí 399, Strážnice, 69662",48.89976,17.315648,1,0,['G0219'],345
+Studénka,"nám. Republiky 697, Studénka, 74213",49.714919,18.053766,1,0,['G0220'],346
+Suchdol nad Lužnicí,"Náměstí T. G. Masaryka 8, Suchdol nad Lužnicí, 37806",48.888183,14.875095,1,0,['G0221'],347
+Sušice,"Poštovní 8, Sušice, 34201",49.231989,13.519999,1,0,['G0222'],348
+Šlapanice,"Masarykovo náměstí 1768/17, Šlapanice, 66451",49.169022,16.726959,1,0,['G0223'],349
+Šluknov,"Pivovarská 651, Šluknov, 40777",51.002288,14.452343,0,1,['E0194'],350
+Štětí,"Obchodní 546, Štětí, 41108",50.453418,14.376038,0,1,['E0195'],351
+Telč,"Svatoanenská 338, Telč, 58856",49.184581,15.453727,1,0,['G0224'],352
+Tišnov,"nám. Komenského 121, Tišnov, 66601",49.349057,16.422039,0,1,['E0196'],353
+Toužim,"náměstí Jiřího z Poděbrad 101, Toužim, 36401",50.059139,12.984611,1,0,['G0225'],354
+Trhové Sviny,"Žižkovo náměstí 92, Trhové Sviny, 37401",48.840365,14.636284,0,1,['E0197'],355
+Třebechovice,"Masarykovo náměstí 33, Třebechovice pod Orebem, 50346",50.200755,15.994089,1,0,['G0226'],356
+Třemošnice,"Náměstí Míru 451, Třemošnice, 53843",49.869543,15.580911,1,0,['G0227'],357
+Třešť,"Franze Kafky 109/11, Třešť, 58901",49.291945,15.482142,1,0,['G0228'],358
+Třinec,"Frýdecká 410, Třinec, 73961",49.680272,18.666393,1,0,['G0229'],359
+Týn nad Vltavou,"Tyršova 35, Týn nad Vltavou, 37501",49.223898,14.420684,1,0,['G0230'],360
+Týnec nad Sázavou,"K Náklí 69, Týnec nad Sázavou, 25741",49.832915,14.590471,1,0,['G0231'],361
+Týniště nad Orlicí,"Mírové nám. 115, Týniště nad Orlicí, 51721",50.148006,16.074018,1,0,['G0232'],362
+OC TESCO Uherské Hradiště,"Tř. Maršála Malinovského 1304, Uherské Hradiště, 68601",49.061441,17.46854,1,0,['G0233'],363
+Uhlířské Janovice,"Komenského 852, Uhlířské Janovice, 28504",49.880953,15.062979,1,0,['G0234'],364
+Úpice,"Bratří Čapků 800, Úpice, 54232",50.510037,16.020793,1,0,['G0235'],365
+Hraničář,"Masarykova 3119/10, Ústí nad Labem, 40001",50.661882,14.034737,1,0,['G0236'],366
+Vamberk,"Husovo náměstí 6, Vamberk, 51754",50.117551,16.290409,0,1,['E0198'],367
+Varnsdorf,"Národní 1863, Varnsdorf, 40747",50.908436,14.626243,1,0,['G0237'],368
+Velká Bystřice,"Zámecké náměstí 19, Velká Bystřice, 78353",49.593129,17.359054,1,0,['G0238'],369
+Velké Pavlovice,"Hlavní 462/46, Velké Pavlovice, 69106",48.900512,16.818871,1,0,['G0239'],370
+Veselí nad Lužnicí,"náměstí T. G. Masaryka 24, Veselí nad Lužnicí, 39181",49.186736,14.698665,1,0,['G0240'],371
+Vítkov,"Švermova 249, Vítkov, 74901",49.774618,17.750809,1,0,['G0241'],372
+Vizovice,"Masarykovo nám. 650, Vizovice, 76312",49.221864,17.852343,0,1,['E0199'],373
+Vlašim,"Lidická 1697, Vlašim, 25801",49.702487,14.897806,1,0,['G0242'],374
+Volary,"Náměstí 34, Volary, 38451",48.910123,13.891469,1,0,['G0243'],375
+Votice,"Komenského nám. 80, Votice, 25901",49.639368,14.642266,1,0,['G0244'],376
+Vratimov,"Frýdecká 1094, Vratimov, 73932",49.77127,18.306867,1,0,['G0245'],377
+Vrbno pod Pradědem,"Nádražní 211, Vrbno pod Pradědem, 79326",50.12034,17.383911,0,1,['E0200'],378
+Vyšší Brod,"Míru 82, Vyšší Brod, 38273",48.616508,14.312235,1,0,['G0246'],379
+Zbraslavice,"Zbraslavice 362, Zbraslavice, 28521",49.810945,15.185136,1,0,['G0247'],380
+Zlaté Hory,"nám. Svobody 10, Zlaté Hory, 79376",50.262733,17.396885,1,0,['G0248'],381
+Zlín - náměstí Míru,"náměstí Míru 186, Zlín, 76001",49.225949,17.666298,1,0,['G0249'],382
+OC Centro Zlín,"třída 3. května 1170, Zlín, 76302",49.203913,17.571805,1,0,['G0250'],383
+Zruč nad Sázavou,"náměstí MUDR. J. Svobody 63, Zruč nad Sázavou, 28522",49.743341,15.10388,1,0,['G0251'],384
+Žamberk,"Nádražní 51, Žamberk, 56401",50.085884,16.465167,1,0,['G0252'],385
+Ždírec nad Doubravou,"Školní 500, Ždírec nad Doubravou, 58263",49.697282,15.815272,1,0,['G0253'],386
+Železný Brod,"náměstí 3. května 37, Železný Brod, 46822",50.642904,15.253846,1,0,['G0254'],387
+Židlochovice,"náměstí Míru 151, Židlochovice, 66701",49.037237,16.618165,1,0,['G0255'],388
+Žlutice,"Velké náměstí 155, Žlutice, 36452",50.091112,13.163081,1,0,['G0256'],389
+Rožnov pod Radhoštěm,"Masarykovo náměstí 134, Rožnov pod Radhoštěm, 75661",49.458158,18.143015,1,0,['G0257'],390
+Plzeň - Skvrňany,"Karla Steinera 930/13, Plzeň, 31800",49.744032,13.328739,1,0,['G0258'],391
+Kobližná,"Kobližná 49/21, Brno, 60200",49.195436,16.612332,1,0,['G0259'],392
+Křenová,"Křenová 409/52, Brno, 60200",49.190982,16.622243,1,0,['G0260'],393
+Kohoutovice,"Libušina třída 578/19, Brno, 62300",49.194716,16.538886,1,0,['G0261'],394
+OC Meta Lidická,"Lidická 960/81, Brno, 60200",49.207433,16.604086,1,0,['G0262'],395
+"Brno, Palackého třída - Náhradní provoz","Palackého třída 183/38, Brno, 61200",49.220583,16.596916,1,0,['G0263'],396
+Vinohrady,"Pálavské náměstí 4246/5, Brno, 62800",49.205786,16.660678,1,0,['G0264'],397
+Čejč,"Čejč 430, Čejč, 69614",48.946859,16.964989,1,0,['G0265'],398
+Děčín 4,"Husovo nám. 80/7, Děčín, 40502",50.774915,14.197615,1,0,['G0266'],399
+OC City Park Jihlava,"Hradební 5440/1, Jihlava, 58601",49.392655,15.59211,1,0,['G0267'],400
+Kročehlavy,"Polská 2333, Kladno, 27201",50.131506,14.126337,1,0,['G0268'],401
+OC Nisa Liberec,"České mládeže 456, Liberec, 46312",50.741531,15.050034,1,0,['G0269'],402
+Plzeň - Slovany,"Částkova 2215/50, Plzeň, 32600",49.732788,13.399507,1,0,['G0270'],403
+Plzeň - Lochotín,"Gerská 1845/11, Plzeň, 32300",49.775794,13.368321,1,0,['G0271'],404
+Plzeň - Luna,"Skupova 490/24, Plzeň, 30100",49.723205,13.37299,1,0,['G0272'],405
+Uhříněves,"Nové náměstí 1257/8, Praha 10, 10400",50.031606,14.599865,1,0,['G0273'],406
+Praha 10 - Malešice,"Počernická 699/62a, Praha 10, 10800",50.081202,14.500158,1,0,['G0274'],407
+VŠE Praha,"náměstí Winstona Churchilla 1938/4, Praha 3, 13000",50.083983,14.440881,1,0,['G0275'],408
+Sladkovského nám.,"Sladkovského náměstí 413/4, Praha 3, 13000",50.08448,14.450521,1,0,['G0276'],409
+GEMINI,"Na Pankráci 1683/127, Praha 4, 14000",50.051796,14.440417,1,0,['G0277'],410
+KAMERA (Barrandov),"Tilleho náměstí 792/2, Praha 5, 15200",50.03445,14.376268,1,0,['G0278'],411
+Zbraslav,"Zbraslavské náměstí 459, Praha 5, 15600",49.975551,14.393185,1,0,['G0279'],412
+Bělohorská,"Bělohorská 1655/110, Praha 6, 16900",50.084239,14.366927,1,0,['G0280'],413
+Červený vrch,"Evropská 695/73, Praha 6, 16000",50.097374,14.359389,1,0,['G0281'],414
+OC Galerie Harfa,"Českomoravská 2420/15a, Praha 9, 19000",50.103506,14.491472,1,0,['G0282'],415
+Hloubětín,"Poděbradská 489/116, Praha 9, 19800",50.10538,14.537267,1,0,['G0283'],416
+Roztoky u Prahy,"Lidická 1734, Roztoky, 25263",50.16111,14.391671,1,0,['G0284'],417
+Rudná u Prahy,"Masarykova 105/47, Rudná, 25219",50.033985,14.23298,1,0,['G0285'],418
+Sedlčany,"28. října 622, Sedlčany, 26401",49.659172,14.424573,1,0,['G0286'],419
+Teplice - OC Nákladní,"Nákladní 3201, Teplice, 41501",50.645687,13.822267,1,0,['G0287'],420
+Unhošť,"Pražská 377, Unhošť, 27351",50.084973,14.132698,1,0,['G0288'],421
+Neštěmice,"Seifertova 604, Ústí nad Labem, 40331",50.671218,14.103683,1,0,['G0289'],422
+Bělá pod Bezdězem,"Masarykovo náměstí 12, Bělá pod Bezdězem, 29421",50.501886,14.804313,1,0,['G0290'],423
+Blatná Komunitní centrum - náhradní provoz,"Nádražní 661, Blatná, 38801",49.430285,13.875044,1,0,['G0291'],424
+Borovany,"Žižkovo náměstí 149, Borovany, 37312",48.900937,14.641695,1,0,['G0292'],425
+Husovice,"Dukelská třída 138/60, Brno, 61400",49.211238,16.63383,1,0,['G0293'],426
+Brno - OC Globus Ivanovice,"Hradecká 408/40, Brno, 62100",49.26202,16.579088,1,0,['G0294'],427
+Hypoteční centrum Brno,"Jánská 448/10, Brno, 60200",49.194064,16.610336,1,0,['G0295'],428
+Regionální korporátní centrum Brno,"Kounicova 4, Brno, 60200",49.200149,16.604943,1,0,['G0296'],429
+ERSTE Premier centrum Brno,"Kounicova 952/4, Brno, 60200",49.200182,16.605021,1,0,['G0297'],430
+Erste Private Banking Brno,"Kounicova 952/4, Brno, 60200",49.200143,16.604724,1,0,['G0298'],431
+Brno - Masarykova,"Masarykova 430/25, Brno, 60200",49.192617,16.610465,1,0,['G0299'],432
+Bystřice nad Olší - mobilní bankéř,"Bystřice nad Olší 334, Bystřice nad Olší, 73995",49.63701,18.721157,1,0,['G0300'],433
+Č. Budějovice - OC Globus,"České Vrbné 2327, České Budějovice, 37011",49.001415,14.450873,1,0,['G0301'],434
+Č. Budějovice - Lidická,"Lidická tř. 439/78, České Budějovice, 37001",48.962017,14.472518,1,0,['G0302'],435
+Č. Budějovice - IGY Centrum,"Pražská tř. 1247/24, České Budějovice, 37004",48.9844,14.472042,1,0,['G0303'],436
+Regionální korporátní centrum České Budějovice,"Radniční 133/1, České Budějovice, 37001",48.973971,14.473245,1,0,['G0304'],437
+Hypoteční centrum České Budějovice,"U Černé věže 69/1, České Budějovice, 37001",48.975291,14.475301,1,0,['G0305'],438
+ERSTE Premier centrum České Budějovice,"U Černé věže 69/1, České Budějovice, 37001",48.975231,14.475341,1,0,['G0306'],439
+Erste Private Banking České Budějovice,"U Černé věže 69/1, České Budějovice, 37001",48.975231,14.475341,1,0,['G0307'],440
+Děčín - OC Oblouková,"Oblouková 1395/4, Děčín, 40502",50.774896,14.21656,1,0,['G0308'],441
+Dobřichovice,"V Zahradách 1081, Dobřichovice, 25229",49.927721,14.275602,1,0,['G0309'],442
+"Frýdek-Místek, Třída T.G.M.","tř. T. G. Masaryka 463, Frýdek-Místek, 73801",49.686026,18.35181,1,0,['G0310'],443
+Hluboká nad Vltavou,"Masarykova 42, Hluboká nad Vltavou, 37341",49.052342,14.434279,1,0,['G0311'],444
+Hostivice,"Čsl. armády 17, Hostivice, 25301",50.081407,14.255778,1,0,['G0312'],445
+Futurum Hradec Králové,"Brněnská 1825/23a, Hradec Králové, 50009",50.196948,15.847235,1,0,['G0313'],446
+Hypoteční centrum Hradec Králové,"Československé armády 402/25, Hradec Králové, 50003",50.210961,15.830178,1,0,['G0314'],447
+ERSTE Premier centrum Hradec Králové,"Československé armády 402/25, Hradec Králové, 50003",50.210961,15.830178,1,0,['G0315'],448
+Regionální korporátní centrum Hradec Králové,"Československé armády 402/25, Hradec Králové, 50003",50.211021,15.830378,1,0,['G0316'],449
+Erste Private Banking Hradec Králové,"Československé armády 402/25, Hradec Králové, 50003",50.210961,15.830178,1,0,['G0317'],450
+Hradec Králové - OC Aupark,"Gočárova třída 1754/48a, Hradec Králové, 50002",50.212254,15.812445,1,0,['G0318'],451
+Univerzita Hradec Králové,"Hradecká 1227/4, Hradec Králové, 50003",50.203628,15.830305,1,0,['G0319'],452
+Jablonec nad Nisou - OC Rýnovka,"Želivského 5050/2, Jablonec nad Nisou, 46605",50.734733,15.160247,1,0,['G0320'],453
+Regionální korporátní centrum Jihlava,"Křížová 1, Jihlava, 58623",49.396996,15.59019,1,0,['G0321'],454
+Hypoteční centrum Jihlava,"Křížová 1338/1, Jihlava, 58601",49.397045,15.590125,1,0,['G0322'],455
+ERSTE Premier centrum Jihlava ,"Křížová 1338/1, Jihlava, 58601",49.396996,15.59019,1,0,['G0323'],456
+Jirkov,"Vinařická e2152, Jirkov, 43111",50.499508,13.444907,1,0,['G0324'],457
+Hypoteční centrum Kladno,"náměstí Svobody 2003, Kladno, 27201",50.144372,14.093148,1,0,['G0325'],458
+Klášterec nad Ohří,"Petlérská 416, Klášterec nad Ohří, 43151",50.388291,13.186628,1,0,['G0326'],459
+Hypoteční centrum Liberec,"Felberova 12/9, Liberec, 46001",50.76834,15.059115,1,0,['G0327'],460
+ERSTE Premier centrum Liberec,"Felberova 12/9, Liberec, 46001",50.76834,15.059115,1,0,['G0328'],461
+Erste Private Banking Liberec,"Felberova 12/9, Liberec, 46001",50.76834,15.059115,1,0,['G0329'],462
+Regionální korporátní centrum Liberec,"Felberova 12/9, Liberec, 46198",50.76834,15.059115,1,0,['G0330'],463
+OC Forum Liberec,"nám. Soukenné 669/2a, Liberec, 46001",50.765532,15.05647,1,0,['G0331'],464
+Litoměřice - OC Želetická,"Želetická 2210/19, Litoměřice, 41201",50.526626,14.138466,1,0,['G0332'],465
+Mladá Boleslav - OC Olympia,"Jičínská 1350, Mladá Boleslav, 29301",50.408286,14.940702,1,0,['G0333'],466
+Prachatice,"Mírové náměstí 51/208, Netolice, 38411",49.048864,14.19669,1,0,['G0334'],113
+Nová Bystřice,"Mírové nám. 28, Nová Bystřice, 37833",49.019111,15.101932,1,0,['G0335'],467
+Hypoteční centrum Opava - pracoviště Nový Jičín,"Štefánikova 2115/13, Nový Jičín, 74101",49.9405,17.898158,1,0,['G0336'],468
+Olomouc - OC Bělidla,"Pavlovická 272/18, Olomouc, 77900",49.601635,17.27835,1,0,['G0337'],469
+Regionální korporátní centrum Olomouc,"tř. Svobody 19, Olomouc, 77900",49.594237,17.247895,1,0,['G0338'],470
+Hypoteční centrum Olomouc,"tř. Svobody 401/19, Olomouc, 77900",49.594237,17.247895,1,0,['G0339'],471
+ERSTE Premier centrum Olomouc,"tř. Svobody 401/19, Olomouc, 77900",49.594206,17.24797,1,0,['G0340'],472
+Erste Private Banking Olomouc,"tř. Svobody 401/19, Olomouc, 77900",49.594237,17.247895,1,0,['G0341'],473
+Hypoteční centrum Opava,"náměstí Republiky 425/15, Opava, 74601",49.9405,17.898158,1,0,['G0342'],474
+Opava - OC Breda,"U Fortny 49/10, Opava, 74601",49.940923,17.900742,1,0,['G0343'],475
+Ostrava - Hrabůvka,"Horní 1457/59, Ostrava, 70030",49.788285,18.256619,1,0,['G0344'],476
+Ostrava - OC Galerie,"Sjízdná 5554/2, Ostrava, 72200",49.82767,18.201546,1,0,['G0345'],477
+Ostrava - Výškovice,"Výškovická 608/163, Ostrava, 70030",49.777694,18.22376,1,0,['G0346'],478
+Hypoteční centrum Ostrava,"28. října 3348/65, Ostrava, 70200",49.831795,18.287584,1,0,['G0347'],479
+ERSTE Premier centrum Ostrava,"28. října 3348/65, Ostrava, 70200",49.831795,18.287584,1,0,['G0348'],480
+Erste Private Banking Ostrava,"28. října 3348/65, Ostrava, 70200",49.831795,18.287584,1,0,['G0349'],481
+Regionální korporátní centrum Ostrava,"28. října 3348/65, Ostrava, 70200",49.832048,18.287913,1,0,['G0350'],482
+Hypoteční centrum Pardubice,"třída Míru 72, Pardubice, 53002",50.036138,15.771569,1,0,['G0351'],483
+ERSTE Premier centrum Pardubice,"třída Míru 72, Pardubice, 53002",50.036138,15.771569,1,0,['G0352'],484
+Erste Private Banking Pardubice,"třída Míru 72, Pardubice, 53002",50.036217,15.77154,1,0,['G0353'],485
+Regionální korporátní centrum Pardubice,"třída Míru 72, Pardubice, 53107",50.036217,15.77154,1,0,['G0354'],486
+Pečky,"Tř. 5. května 148, Pečky, 28911",50.088683,15.029801,1,0,['G0355'],487
+Regionální korporátní centrum Plzeň,"Divadelní 3a, Plzeň, 30121",49.746039,13.370472,1,0,['G0356'],488
+Hypoteční centrum Plzeň,"Františkánská 356/15, Plzeň, 30100",49.745089,13.378007,1,0,['G0357'],489
+Plzeň - Bory,"Klatovská třída 2074/39, Plzeň, 30100",49.739293,13.37124,1,0,['G0358'],490
+ERSTE Premier centrum Plzeň,"náměstí Republiky 235/36, Plzeň, 30100",49.747793,13.376559,1,0,['G0359'],491
+Erste Private Banking Plzeň,"náměstí Republiky 235/36, Plzeň, 30100",49.747793,13.376559,1,0,['G0360'],492
+Plzeň - OC Plaza,"Radčická 2861/2, Plzeň, 30100",49.749631,13.369545,1,0,['G0361'],493
+Dlouhá,"Dlouhá 743/9, Praha 1, 11000",50.089688,14.42289,1,0,['G0362'],494
+Erste Private Banking Rytířská,"Rytířská 29, Praha 1, 11000",50.085093,14.422237,1,0,['G0363'],495
+Regionální korporátní centrum Praha - východ,"Rytířská 29, Praha 1, 11121",50.085017,14.422309,1,0,['G0364'],496
+ERSTE Premier centrum Rytířská,"Rytířská 536/29, Praha 1, 11000",50.085019,14.422323,1,0,['G0365'],497
+ERSTE Premier a Expat centrum,"Rytířská 536/29, Praha 1, 11000",50.085019,14.422323,1,0,['G0366'],498
+budova Rytířská 29 - bezpečnostní schránky,"Rytířská 536/29, Praha 1, 11000",50.085093,14.422237,1,0,['G0367'],499
+budova Senovážné nám. 23 (Na Perštýně),"Senovážné náměstí 23, Praha 1, 11000",50.085319,14.431978,1,0,['G0368'],500
+ERSTE Premier centrum Gestin,"V Celnici 1040/5, Praha 1, 11000",50.088538,14.431022,1,0,['G0369'],501
+Praha - Hlavní nádraží - samoobslužná zóna,"Wilsonova 300/8, Praha 1, 11000",50.08356,14.435485,1,0,['G0370'],502
+Hypoteční centrum Praha I.,"Jugoslávská 136/19, Praha 2, 12000",50.075533,14.433588,1,0,['G0371'],503
+Karlovo nám.,"Karlovo náměstí 318/4, Praha 2, 12000",50.074118,14.418421,1,0,['G0372'],504
+Regionální korporátní centrum Praha - jih,"Budějovická 1518/13, Praha 4, 14000",50.045308,14.449256,1,0,['G0373'],505
+Korporátní zákazníci,"Budějovická 1518/13a, Praha 4, 14000",50.045308,14.449256,1,0,['G0374'],506
+ERSTE Premier centrum Trianon,"Budějovická 1518/13A, Praha 4, 14000",50.045126,14.449563,1,0,['G0375'],507
+Erste Private Banking Trianon,"Budějovická 1518/3A, Praha 4, 14000",50.045191,14.449267,1,0,['G0376'],508
+Spořilov,"Hlavní 2459/108, Praha 4, 14100",50.046762,14.487139,1,0,['G0377'],509
+ERSTE Premier centrum Radlická,"Radlická 608/2, Praha 5, 15000",50.071583,14.400785,1,0,['G0378'],510
+Praha 5 - OC Zličín,"Řevnická 121/1, Praha 5, 15521",50.054137,14.287914,1,0,['G0379'],511
+Nové Butovice,"Sluneční náměstí 2583/11, Praha 5, 15800",50.05065,14.345287,1,0,['G0380'],512
+Hypoteční centrum Praha II.,"Štefánikova 247/17, Praha 5, 15000",50.073587,14.403219,1,0,['G0381'],513
+Regionální korporátní centrum Praha - západ,"Štefánikova 247/17, 3. patro, Praha 5, 15031",50.073582,14.403474,1,0,['G0382'],514
+ERSTE Premier centrum Pelléova,"Pelléova 55/17, Praha 6, 16000",50.100808,14.407022,1,0,['G0383'],515
+Erste Private Banking Pelléova,"Pelléova 55/17, Praha 6, 16000",50.100808,14.407022,1,0,['G0384'],516
+Dělnická,"Dělnická 1222/49a, Praha 7, 17000",50.103434,14.451501,1,0,['G0385'],517
+Černý Most,"Bryksova 758/62, Praha 9, 19800",50.108189,14.577334,1,0,['G0386'],518
+Regionální korporátní centrum Praha - sever,"Prosecká 851/64, Praha 9, 19000",50.118344,14.499849,1,0,['G0387'],519
+Přerov - OC Galerie,"Čechova 3491/26, Přerov, 75002",49.450482,17.45644,1,0,['G0388'],520
+Rožnov pod Radhoštěm - náhradní provoz - mobilní pobočka,"Chodská 1203, Rožnov pod Radhoštěm, 75661",49.459306,18.135148,1,0,['G0389'],521
+OC Olympia Teplice-Srbice,"Srbická 464, Teplice, 41510",50.661683,13.863692,1,0,['G0390'],522
+OC Třebíč,"Znojemská 1383, Třebíč, 67401",49.202795,15.885111,1,0,['G0391'],523
+ERSTE Premier centrum Ústí nad Labem,"Mírové náměstí 2/5, Ústí nad Labem, 40001",50.660772,14.040915,1,0,['G0392'],524
+Erste Private Banking Ústí nad Labem,"Mírové náměstí 2/5, Ústí nad Labem, 40001",50.660787,14.040883,1,0,['G0393'],525
+Regionální korporátní centrum Ústí nad Labem,"Mírové náměstí 2/5, Ústí nad Labem, 40058",50.660976,14.040855,1,0,['G0394'],526
+Velešín,"náměstí J. V. Kamarýta 63, Velešín, 38232",48.828707,14.463036,1,0,['G0395'],527
+Velešín - mobilní bankéř,"náměstí J. V. Kamarýta 76, Velešín, 38232",48.829186,14.462813,1,0,['G0396'],528
+Zlín - Dvanáctka,"J. A. Bati 5637, Zlín, 76001",49.223894,17.659339,1,0,['G0397'],529
+ERSTE Premier centrum Zlín,"Zarámí 4463, Zlín, 76001",49.228004,17.665203,1,0,['G0398'],530
+Erste Private Banking Zlín,"Zarámí 4463, Zlín, 76001",49.228004,17.665203,1,0,['G0399'],531
+Regionální korporátní centrum Zlín,"Zarámí 4463, Zlín, 76165",49.228004,17.665203,1,0,['G0400'],532
