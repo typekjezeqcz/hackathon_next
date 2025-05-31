@@ -95,7 +95,7 @@ export async function findNearbyBranchesFromPolyline(
 ): Promise<NearbyBranchResult[]> {
   const baseDir = path.resolve(process.cwd(), "data");
   const branchesCsv = path.join(
-    "/Users/felixschon/Desktop/hackathon_next/my-app/data/branch_vehicle_allocation_with_cars.csv"
+    "my-app/data/branch_vehicle_allocation_with_cars.csv"
   ); // adjust to your CSV path
 
   // 1. Decode polyline → array of points
@@ -204,18 +204,10 @@ export async function getBestBranchWithAvailableEV(
 
   const [branches, cars, trips] = await Promise.all([
     readCsv<BranchRow>(
-      path.join(
-        "/Users/felixschon/Desktop/hackathon_next/my-app/data/branch_vehicle_allocation_with_cars.csv"
-      )
+      path.join("my-app/data/branch_vehicle_allocation_with_cars.csv")
     ),
-    readCsv<CarRow>(
-      path.join("/Users/felixschon/Desktop/hackathon_next/my-app/data/cars.csv")
-    ),
-    readCsv<TripRow>(
-      path.join(
-        "/Users/felixschon/Desktop/hackathon_next/my-app/data/trips.csv"
-      )
-    ),
+    readCsv<CarRow>(path.join("my-app/data/cars.csv")),
+    readCsv<TripRow>(path.join("my-app/data/trips.csv")),
   ]);
 
   /* ------------------------------------------------------------------------ */
