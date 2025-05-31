@@ -1,6 +1,6 @@
+// app/api/transit/route.ts
+
 import { NextRequest, NextResponse } from "next/server";
-import fs from "fs/promises";
-import path from "path";
 
 export const runtime = "nodejs";
 
@@ -50,18 +50,12 @@ export async function POST(req: NextRequest) {
   );
 
   if (!res.ok) {
-    const err = await res.text();
-    return NextResponse.json({ error: err }, { status: res.status });
+    const errText = await res.text();
+    return NextResponse.json({ error: errText }, { status: res.status });
   }
 
   const data = await res.json();
 
-  const dir = path.join(process.cwd(), "data");
-  await fs.mkdir(dir, { recursive: true });
-  await fs.writeFile(
-    path.join(dir, "transit_route.json"),
-    JSON.stringify(data, null, 2)
-  );
-
+  // Simply return the Google Routes response—do not attempt to write to /var/task/data
   return NextResponse.json(data);
 }
