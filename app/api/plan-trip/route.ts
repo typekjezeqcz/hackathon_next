@@ -166,15 +166,15 @@ export async function POST(req: NextRequest) {
 
     /* optional: dump for debug */
     const dir = path.join(process.cwd(), "data");
-    await fs.mkdir(dir, { recursive: true });
-    await fs.writeFile(
-      path.join(dir, "merged_trip.json"),
-      JSON.stringify(
-        { origin, destination, bestBranch, mergedEncoded },
-        null,
-        2
-      )
-    );
+    // await fs.mkdir(dir, { recursive: true });
+    // await fs.writeFile(
+    //   path.join(dir, "merged_trip.json"),
+    //   JSON.stringify(
+    //     { origin, destination, bestBranch, mergedEncoded },
+    //     null,
+    //     2
+    //   )
+    // );
 
     return NextResponse.json({
       mergedEncoded,
