@@ -238,7 +238,12 @@ export default function TripForm() {
       setBackTransit(t2);
 
       if (!res.routes) {
-        throw new Error("No routes object returned from API.");
+        // Instead of throwing an error, show a friendly warning:
+        alert(
+          "The destination is too short for routing. Please choose different destination."
+        );
+        setLoading(false);
+        return; // stop further processing
       }
 
       /***************************************************************************/

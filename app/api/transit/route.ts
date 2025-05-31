@@ -8,11 +8,14 @@ export async function POST(req: NextRequest) {
   const { origin, destination, departureTime } = await req.json();
 
   if (!origin || !destination) {
+    // You can choose to return null here as well,
+    // but this example still returns a 400 for missing coords.
     return NextResponse.json({ error: "Missing coords" }, { status: 400 });
   }
 
   const apiKey = process.env.GOOGLE_MAPS_API_KEY;
   if (!apiKey) {
+    // Similarly, you could return null, but this still returns a 500 if your key is missing.
     return NextResponse.json({ error: "API key missing" }, { status: 500 });
   }
 
@@ -36,26 +39,29 @@ export async function POST(req: NextRequest) {
     units: "METRIC",
   };
 
-  const res = await fetch(
-    "https://routes.googleapis.com/directions/v2:computeRoutes",
-    {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "X-Goog-Api-Key": apiKey,
-        "X-Goog-FieldMask": "routes.*",
-      },
-      body: JSON.stringify(body),
+  try {
+    const res = await fetch(
+      "https://routes.googleapis.com/directions/v2:computeRoutes",
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "X-Goog-Api-Key": apiKey,
+          "X-Goog-FieldMask": "routes.*",
+        },
+        body: JSON.stringify(body),
+      }
+    );
+
+    if (!res.ok) {
+      // Instead of returning a Next.js error status, return `null`
+      return NextResponse.json(null);
     }
-  );
 
-  if (!res.ok) {
-    const errText = await res.text();
-    return NextResponse.json({ error: errText }, { status: res.status });
+    const data = await res.json();
+    return NextResponse.json(data);
+  } catch (err) {
+    // Any network/connection error (e.g. “failed to fetch”) will land here
+    return NextResponse.json(null);
   }
-
-  const data = await res.json();
-
-  // Simply return the Google Routes response—do not attempt to write to /var/task/data
-  return NextResponse.json(data);
 }

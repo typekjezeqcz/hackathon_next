@@ -115,83 +115,88 @@ export default function RouteMap({ routes }: Props) {
 
   /* ---------------- render everything ---------------- */
   return (
-    <GoogleMap
-      mapContainerStyle={{ width: "100%", height: "400px" }}
-      center={centre}
-      zoom={7}
-      options={{ mapTypeControl: false, streetViewControl: false }}
-    >
-      {paths.map((p, i) => (
-        <Polyline
-          key={i}
-          path={p.path}
-          options={{
-            strokeColor: pickColor(p, i),
-            strokeOpacity: 0.9,
-            strokeWeight: 4,
-          }}
-        />
-      ))}
+    <div>
+      {/* Title above the map */}
+      <div className="text-lg text-black mb-2">For a Return trip</div>
+      {/* The map itself */}
+      <GoogleMap
+        mapContainerStyle={{ width: "100%", height: "400px" }}
+        center={centre}
+        zoom={7}
+        options={{ mapTypeControl: false, streetViewControl: false }}
+      >
+        {paths.map((p, i) => (
+          <Polyline
+            key={i}
+            path={p.path}
+            options={{
+              strokeColor: pickColor(p, i),
+              strokeOpacity: 0.9,
+              strokeWeight: 4,
+            }}
+          />
+        ))}
 
-      {/* ---------------- Origin marker (“Start & Finnish”) ---------------- */}
-      {startPos && (
-        <Marker
-          position={startPos}
-          icon={{
-            url: "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
-            scaledSize: new window.google.maps.Size(32, 32),
-            labelOrigin: new window.google.maps.Point(16, -8),
-          }}
-          label={{
-            text: "Start & Finnish",
-            color: "#000000",
-            fontSize: "12px",
-            fontWeight: "bold",
-          }}
-          title="Start & Finnish"
-        />
-      )}
-
-      {/* ---------------- Destination marker (“Destination”) ---------------- */}
-      {endPos && (
-        <Marker
-          position={endPos}
-          icon={{
-            url: "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
-            scaledSize: new window.google.maps.Size(32, 32),
-            labelOrigin: new window.google.maps.Point(16, -8),
-          }}
-          label={{
-            text: "Destination",
-            color: "#000000",
-            fontSize: "12px",
-            fontWeight: "bold",
-          }}
-          title="Destination"
-        />
-      )}
-
-      {/* ---------------- Branch marker(s): “Car Swap for EV” ---------------- */}
-      {paths.map((p, i) =>
-        p.branch ? (
+        {/* Origin marker (“Start & Finish”) */}
+        {startPos && (
           <Marker
-            key={`branch-${i}`}
-            position={{ lat: p.branch.lat, lng: p.branch.lng }}
+            position={startPos}
             icon={{
-              url: "https://pngimg.com/d/skoda_PNG12329.png",
-              scaledSize: new window.google.maps.Size(75, 40),
-              labelOrigin: new window.google.maps.Point(37.5, -8),
+              url: "https://maps.google.com/mapfiles/ms/icons/red-dot.png",
+              scaledSize: new window.google.maps.Size(32, 32),
+              labelOrigin: new window.google.maps.Point(16, -8),
             }}
             label={{
-              text: "Car Swap for EV",
+              text: "Start & Finish",
               color: "#000000",
               fontSize: "12px",
               fontWeight: "bold",
             }}
-            title="Car Swap for EV"
+            title="Start & Finish"
           />
-        ) : null
-      )}
-    </GoogleMap>
+        )}
+
+        {/* Destination marker (“Destination”) */}
+        {endPos && (
+          <Marker
+            position={endPos}
+            icon={{
+              url: "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+              scaledSize: new window.google.maps.Size(32, 32),
+              labelOrigin: new window.google.maps.Point(16, -8),
+            }}
+            label={{
+              text: "Destination",
+              color: "#000000",
+              fontSize: "12px",
+              fontWeight: "bold",
+            }}
+            title="Destination"
+          />
+        )}
+
+        {/* Branch marker(s): “Car Swap for EV” */}
+        {paths.map((p, i) =>
+          p.branch ? (
+            <Marker
+              key={`branch-${i}`}
+              position={{ lat: p.branch.lat, lng: p.branch.lng }}
+              icon={{
+                url: "https://pngimg.com/d/skoda_PNG12329.png",
+                scaledSize: new window.google.maps.Size(75, 40),
+                labelOrigin: new window.google.maps.Point(37.5, -8),
+              }}
+              label={{
+                text: "Car Swap for EV",
+                color: "#000000",
+                fontSize: "12px",
+                fontWeight: "bold",
+              }}
+              title="Car Swap for EV"
+            />
+          ) : null
+        )}
+      </GoogleMap>
+    </div>
   );
 }
